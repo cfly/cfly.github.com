@@ -1,0 +1,55 @@
+---
+layout: post
+status: publish
+published: true
+title: SuSE 9.3
+author_url: http://caofei.org
+wordpress_id: 83
+wordpress_url: http://caofei.wordpress.com/2005/04/25/suse-9-3
+date: '2005-04-25 00:06:36 +0800'
+date_gmt: '2005-04-24 16:06:36 +0800'
+categories:
+- 计算机与 Internet
+tags: []
+comments:
+- id: 3
+  author: Unknown
+  author_email: ''
+  author_url: ''
+  date: '2005-04-25 13:05:47 +0800'
+  date_gmt: '2005-04-25 05:05:47 +0800'
+  content: 真难看..近视的壁虎
+- id: 170
+  author: Aditya
+  author_email: inge.bervoets@ua.ac.be
+  author_url: http://www.facebook.com/profile.php?id=100003412941977
+  date: '2013-02-27 00:27:05 +0800'
+  date_gmt: '2013-02-26 16:27:05 +0800'
+  content: There are no words to dscerbie how bodacious this is.
+- id: 176
+  author: Mamta
+  author_email: officer3@tecumseh65.org
+  author_url: http://www.facebook.com/profile.php?id=100003412638769
+  date: '2013-02-27 11:52:45 +0800'
+  date_gmt: '2013-02-27 03:52:45 +0800'
+  content: So much info in so few words. Tosltoy could learn a lot.
+- id: 4120
+  author: マイケルコース 鞄
+  author_email: shjholcdf@gmail.com
+  author_url: http://www.wtdzjk.com/
+  date: '2013-10-28 15:20:22 +0800'
+  date_gmt: '2013-10-28 07:20:22 +0800'
+  content: マイケルマイケルコース
+---
+<div id="msgcns!66CD003054696B87!302" class="bvMsg">
+<p>终于装完了 SuSE 9.3 不过还没来得及感受呢，先贴个logo</p>
+<p> </p>
+</div>
+<table cellspacing="0" border="0">
+<tr>
+<td></td>
+</tr>
+<tr>
+<td valign="top"><a href="http://byfiles.storage.live.com/y1pptU39qV_WEWoDWFynj84FlO_xlDeUp3t66kRkO9ft_tR5V8vhu7D4SV5dB7hQ7WCl8Lnjkz9Mls" target="_blank" rel="WLPP;url=http://byfiles.storage.live.com/y1pptU39qV_WEWoDWFynj84FlO_xlDeUp3t66kRkO9ft_tR5V8vhu7D4SV5dB7hQ7WCl8Lnjkz9Mls;cnsid=cns&#033;66CD003054696B87&#033;303"><img src="http://byfiles.storage.live.com/y1pptU39qV_WEWoDWFynj84FlO_xlDeUp3trwn05MfXsFVQIjhvIH_GY8nsZ01jAOv_1gjUTQ0ai4g" border="0" /></a></td>
+</tr>
+</table>

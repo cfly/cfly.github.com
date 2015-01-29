@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: 记忆中的碎片
+author_url: http://caofei.org
+wordpress_id: 35
+wordpress_url: http://caofei.wordpress.com/2006/03/21/%e8%ae%b0%e5%bf%86%e4%b8%ad%e7%9a%84%e7%a2%8e%e7%89%87
+date: '2006-03-21 23:54:48 +0800'
+date_gmt: '2006-03-21 15:54:48 +0800'
+categories:
+- 游戏
+tags: []
+comments: []
+---
+<div id="msgcns!66CD003054696B87!794" class="bvMsg">
+<div><img src="http://tk.files.storage.msn.com/x1pk64-9H0OKxRgPs2OsR02ItylqDHaqEjcNnSrl_F5XZiiJ7un1KRcP0XQuM7M61sgZgw6uLEfnEkSiHBKG_mn7jNhYRzPw4rg1XtLzRZ9KmiGj_vmWK19ADj4XSnD4ei9ragwCWqFOQKeXa6vFFhikbccpKZiud83" /></div>
+<div>很久很久以前...知道这张照片的请回话。</div>
+</div>
+<table cellspacing="0" border="0">
+<tr>
+<td></td>
+</tr>
+<tr>
+<td valign="top"><a href="http://byfiles.storage.live.com/y1pMZL893HjW5bDkt05chVKsl806G6hNxkImwm1GsjVqIdNGJQ6Ka7LxTqbNdP_CZxySV8LbcK5zQY" target="_blank" rel="WLPP;url=http://byfiles.storage.live.com/y1pMZL893HjW5bDkt05chVKsl806G6hNxkImwm1GsjVqIdNGJQ6Ka7LxTqbNdP_CZxySV8LbcK5zQY;cnsid=cns&#033;66CD003054696B87&#033;795"><img src="http://byfiles.storage.live.com/y1pMZL893HjW5bDkt05chVKsrGZg8x4omNeElklf2eF26OMfoXGSn0Z9OQwGQbsA_zXu8woPn6YFJs" border="0" /></a></td>
+</tr>
+</table>

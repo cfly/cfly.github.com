@@ -1,0 +1,52 @@
+---
+layout: post
+status: publish
+published: true
+title: new blog
+author:
+  display_name: cfly
+  login: cfly
+  email: cf0@me.com
+  url: http://caofei.org
+author_login: cfly
+author_email: cf0@me.com
+author_url: http://caofei.org
+wordpress_id: 109
+wordpress_url: http://caofei.org/wordpress/?p=109
+date: '2011-12-20 00:17:54 +0800'
+date_gmt: '2011-12-19 16:17:54 +0800'
+categories:
+- log
+tags: []
+comments:
+- id: 27
+  author: syu0224
+  author_email: zh0224@hotmail.com
+  author_url: ''
+  date: '2011-12-20 00:24:41 +0800'
+  date_gmt: '2011-12-19 16:24:41 +0800'
+  content: 支持，顶一个
+- id: 56
+  author: Yadav
+  author_email: oms@koptevo.net
+  author_url: http://www.facebook.com/profile.php?id=100003406270447
+  date: '2012-07-15 02:49:19 +0800'
+  date_gmt: '2012-07-14 18:49:19 +0800'
+  content: I guess finding useful, reliable infromtaion on the internet isn't hopeless
+    after all.
+- id: 5438
+  author: Nena
+  author_email: 9wpe8com6d0@outlook.com
+  author_url: http://xDULLKOB
+  date: '2014-07-31 12:50:02 +0800'
+  date_gmt: '2014-07-31 04:50:02 +0800'
+  content: Superior thinking deeamstrotnd above. Thanks!
+- id: 5464
+  author: Lina
+  author_email: byd1sc8t7@gmail.com
+  author_url: http://SAKr4t4MBZCt
+  date: '2014-07-31 22:22:37 +0800'
+  date_gmt: '2014-07-31 14:22:37 +0800'
+  content: Thr'ees nothing like the relief of finding what you're looking for.
+---
+<p>凌晨申请adsense被拒了，理由是网站正在建设中，无内容。就把以前msn spaces转到wordpress.com的内容转到自己的site上来，try again…</p>

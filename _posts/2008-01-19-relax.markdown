@@ -1,0 +1,157 @@
+---
+layout: post
+status: publish
+published: true
+title: relax
+author_url: http://caofei.org
+wordpress_id: 11
+wordpress_url: http://caofei.wordpress.com/2008/01/19/relax
+date: '2008-01-19 11:36:44 +0800'
+date_gmt: '2008-01-19 03:36:44 +0800'
+categories:
+- 未分类
+tags: []
+comments:
+- id: 25
+  author: amy
+  author_email: ''
+  author_url: ''
+  date: '2008-01-25 10:24:33 +0800'
+  date_gmt: '2008-01-25 02:24:33 +0800'
+  content: 就是这么一直欣赏你~~趟平GOOGLE，IBM去
+- id: 75
+  author: Kebabone
+  author_email: a.segala@monaco-telecom.mc
+  author_url: http://www.facebook.com/profile.php?id=100003406639841
+  date: '2012-09-16 09:10:52 +0800'
+  date_gmt: '2012-09-16 01:10:52 +0800'
+  content: It's a pleausre to find someone who can think so clearly
+- id: 81
+  author: Nok
+  author_email: simon@volcom.co.za
+  author_url: http://www.facebook.com/profile.php?id=100003406643629
+  date: '2012-09-17 01:51:24 +0800'
+  date_gmt: '2012-09-16 17:51:24 +0800'
+  content: When you think about it, that's got to be the right aneswr.
+- id: 680
+  author: baidu censor
+  author_email: fvmwhh@gmail.com
+  author_url: http://www.baidu.com
+  date: '2013-04-02 23:28:22 +0800'
+  date_gmt: '2013-04-02 15:28:22 +0800'
+  content: Other countries censor content and not just rogue regimes such as the Iranian
+    mullocracy. Poor people!  http://www.baidu.com
+- id: 1787
+  author: replica wathces
+  author_email: snttuidnhj@gmail.com
+  author_url: http://www.ukreplicastore.co.uk
+  date: '2013-05-26 17:32:28 +0800'
+  date_gmt: '2013-05-26 09:32:28 +0800'
+  content: You folks should try slacker. net far too. For radio stations, RadioSure
+    as well as RadioTime are the best on the planet. Along with the best is usually
+    AudioGalaxy, you can pay attention all the sounds you could have inside your computer
+    system in your own home, in any computer, wherever, simply brilliant. Get pleasure
+    from tunes!  <a href="http://www.ukreplicastore.co.uk" title="replica wathces"
+    rel="nofollow">replica wathces</a>
+- id: 2411
+  author: jordan shoes
+  author_email: aektwcgzvjc@gmail.com
+  author_url: http://www.cheapairjordanshoesonline.com/
+  date: '2013-06-25 17:31:34 +0800'
+  date_gmt: '2013-06-25 09:31:34 +0800'
+  content: Extermely amazing companies using this. Post take pleasure in you have
+    using installing in addition to giving your individual data containing individuals.
+    I’ll without doubt continue higher to come back. jordan shoes http://www.cheapairjordanshoesonline.com/
+- id: 2715
+  author: Cheap Christian Louboutin
+  author_email: lfcbozteecq@gmail.com
+  author_url: http://www.myeuraweb.com
+  date: '2013-07-17 01:59:16 +0800'
+  date_gmt: '2013-07-16 17:59:16 +0800'
+  content: Duluth-born Vitalia Passley hobbies include <a href="http://www.spsenvirowall.co.uk/"
+    rel="nofollow">Mulberry Outlet</a> computing devices, frisbee golf (frolf). She
+    catches her encouragement from spending time along with her pals.
+- id: 2725
+  author: Mulberry Purse
+  author_email: xqlfjyukh@gmail.com
+  author_url: http://www.spsenvirowall.co.uk
+  date: '2013-07-17 07:44:00 +0800'
+  date_gmt: '2013-07-16 23:44:00 +0800'
+  content: Porter Vitalia Passley interests includes <a href="http://www.spsenvirowall.co.uk/"
+    rel="nofollow">Mulberry Outlet</a> skiing, relaxing. Last but not least her encouragement
+    derives from travelling to give an example Minsk.
+- id: 3260
+  author: buy cheap nike free
+  author_email: lyimjqxgexy@gmail.com
+  author_url: http://www.tomsfr.info/
+  date: '2013-08-14 11:27:08 +0800'
+  date_gmt: '2013-08-14 03:27:08 +0800'
+  content: '%titlet% buy nike shoes online http://www.tomsfr.info/  <a href="http://www.tomsfr.info/"
+    title="buy cheap nike free" rel="nofollow">buy cheap nike free</a>'
+- id: 3376
+  author: www.87wg.com
+  author_email: xesvmvjzmz@gmail.com
+  author_url: http://www.87wg.com/
+  date: '2013-08-20 03:37:17 +0800'
+  date_gmt: '2013-08-19 19:37:17 +0800'
+  content: "%titlet% lunettes oakley pas cher www.87wg.com\r\n[url=http://www.87wg.com/]www.87wg.com[/url]"
+- id: 3630
+  author: Lunetts Bvlgari
+  author_email: vbihoo@gmail.com
+  author_url: http://www.lunettes2013.info
+  date: '2013-09-09 05:34:08 +0800'
+  date_gmt: '2013-09-08 21:34:08 +0800'
+  content: "I think this is very good to say.\r\n[url=http://www.lunettes2013.info]Lunetts
+    Bvlgari[/url]"
+- id: 3725
+  author: lunettes ray ban
+  author_email: brqbgvimuk@gmail.com
+  author_url: http://www.newwayfarerrayban.org
+  date: '2013-09-17 08:06:33 +0800'
+  date_gmt: '2013-09-17 00:06:33 +0800'
+  content: "We should all be so think.\r\nlunettes ray ban http://www.newwayfarerrayban.org"
+- id: 4897
+  author: ポールスミス バッグ
+  author_email: qkpuas@gmail.com
+  author_url: http://www.pandarider.com/gif/Paul-Smith-watch-c-1.html
+  date: '2014-02-20 23:28:12 +0800'
+  date_gmt: '2014-02-20 15:28:12 +0800'
+  content: "彼女はストラップレスの外観の使用量は、したがってたかったことで行くように取り外し可能なストラップで発表した。もし、グッチのクラッチが、最も高価なスタイルを生地にしたくない場合は、先に素晴らしい割引価格で古い一般的なパターンになって考えてみましょう。\r\n[url=http://www.pandarider.com/gif/Paul-Smith-watch-c-1.html]ポールスミス
+    バッグ[/url]"
+- id: 4904
+  author: ブルガリ 時計
+  author_email: wgvszwcymlm@gmail.com
+  author_url: http://www.aromathai.net/admin/BVLGARI-bag-c-2.html
+  date: '2014-02-21 09:45:36 +0800'
+  date_gmt: '2014-02-21 01:45:36 +0800'
+  content: "考慮したがについて物思いにふけってください。一度サイト ant 国を構築可能性がある可能性があり、分散では、行く貨物ボックスの上の要素を攻撃する必要があるかどうかは土壌における深刻な失敗砂を持っていることができます、私たちアドバイス、によって作成されたほとんどの物事ビットの前に、約にはあなたの貴重な巣にアリを明らかにすることができる、彼らは信じている強化計画の人々
+    を言うが実行家族ペットの修理店をするだろうからあなたの蟻準備ができているすべてのあなたの家族のメンバーについての詳細を紹介の会社彼らの多くの新しい更新。ドレス、タグ
+    クラウドも： 平野 skirtsThe 削除または袖について計算されたにも改善: 超ポーカー プレーヤー袖 |2013 年 7 月 9 日 - - パッドはほぼ確かに最愛のデバイスの間で、現代の世代です。履物および深いの負荷ゲストのバースと並んで、風上のほくろを背中の後ろにすることができます。\r\n[url=http://www.aromathai.net/admin/BVLGARI-bag-c-2.html]ブルガリ
+    時計[/url]"
+- id: 4969
+  author: zippo hand warmer
+  author_email: lwwdfrdvny@gmail.com
+  author_url: http://www.jeuxselect.fr/20-heroes-militaire-briquets-zippo
+  date: '2014-03-05 09:45:05 +0800'
+  date_gmt: '2014-03-05 01:45:05 +0800'
+  content: "bfgxnsfh\r\n[url=http://www.jeuxselect.fr/20-heroes-militaire-briquets-zippo]zippo
+    hand warmer[/url]"
+- id: 4973
+  author: ballroom dance dresses for rent
+  author_email: xlcsuyshqx@gmail.com
+  author_url: http://updatesmaza.com/16-party-event-dresses
+  date: '2014-03-06 13:49:39 +0800'
+  date_gmt: '2014-03-06 05:49:39 +0800'
+  content: fhouyf
+- id: 5636
+  author: 石灰窑
+  author_email: jbyxderhj@163.com
+  author_url: http://user.qzone.qq.com/991704219/
+  date: '2014-08-18 11:45:09 +0800'
+  date_gmt: '2014-08-18 03:45:09 +0800'
+  content: 看看觉着，写的很好。
+---
+<div id="msgcns!66CD003054696B87!1222" class="bvMsg">
+<p>辞职了。这回有时间了，忙的时候脑子空空的坐在沙发上就是种奢侈的享受，闲的时候没事就会胡思乱想。最近看了几部电影《头名状》《babel》《No Reservations》《Sydney White》，觉得自己麻木了，审美疲劳+审恶疲劳，唯一有感觉的是《No Reservations》那首响起的《The Lion Sleep Tonight》。</p>
+<p>万恶的space依旧慢，不知道这帮人优化什么了，还有万恶的ie7，w3c在他的淫威之下没什么大行动。各大硬件厂商真要感谢M$的人，我们这些end user才会花钱买这些超级贬值的东西。一会儿准备买个硬盘，希捷 750G 7200.10 16M SATA，昨天查的价格1490元。你猜猜它的价格和时间的一阶导是多少？二阶导能大于零吗？</p>
+</div>

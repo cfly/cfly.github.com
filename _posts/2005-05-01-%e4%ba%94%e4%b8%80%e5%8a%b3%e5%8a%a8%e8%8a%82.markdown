@@ -1,0 +1,39 @@
+---
+layout: post
+status: publish
+published: true
+title: 五一劳动节
+author_url: http://caofei.org
+wordpress_id: 79
+wordpress_url: http://caofei.wordpress.com/2005/05/01/%e4%ba%94%e4%b8%80%e5%8a%b3%e5%8a%a8%e8%8a%82
+date: '2005-05-01 03:58:41 +0800'
+date_gmt: '2005-04-30 19:58:41 +0800'
+categories:
+- 未分类
+tags: []
+comments:
+- id: 2
+  author: Unknown
+  author_email: ''
+  author_url: ''
+  date: '2005-05-01 11:31:25 +0800'
+  date_gmt: '2005-05-01 03:31:25 +0800'
+  content: 看到了！
+- id: 78
+  author: Yukio
+  author_email: p.hisnesmes@t-online.cn
+  author_url: http://www.facebook.com/profile.php?id=100003406657182
+  date: '2012-09-16 13:22:32 +0800'
+  date_gmt: '2012-09-16 05:22:32 +0800'
+  content: Your thinking mtacehs mine - great minds think alike!
+- id: 4118
+  author: coach リュック
+  author_email: thaqblywu@gmail.com
+  author_url: http://www.szppses.com/かごバッグ-jbdw-15.html
+  date: '2013-10-28 14:18:10 +0800'
+  date_gmt: '2013-10-28 06:18:10 +0800'
+  content: coach がま口
+---
+<div id="msgcns!66CD003054696B87!317" class="bvMsg">
+<p>劳动人民的节日，我也算劳动者吧，脑力劳动也是劳动。放假想在wow里劳动，想想还是回家吧。祝看到的人五一玩得开心！</p>
+</div>

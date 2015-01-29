@@ -1,0 +1,198 @@
+---
+layout: post
+status: publish
+published: true
+title: wiki被封了？
+author_url: http://caofei.org
+wordpress_id: 49
+wordpress_url: http://caofei.wordpress.com/2005/10/21/wiki%e8%a2%ab%e5%b0%81%e4%ba%86%ef%bc%9f
+date: '2005-10-21 00:48:11 +0800'
+date_gmt: '2005-10-20 16:48:11 +0800'
+categories:
+- 计算机与 Internet
+tags: []
+comments:
+- id: 13
+  author: Kreuz
+  author_email: ''
+  author_url: ''
+  date: '2005-10-22 12:25:30 +0800'
+  date_gmt: '2005-10-22 04:25:30 +0800'
+  content: 还好在国外！不然又少了个好东东！
+- id: 55
+  author: chi
+  author_email: info@hankook-sportcenter.de
+  author_url: http://www.facebook.com/profile.php?id=100003406291168
+  date: '2012-07-15 00:32:55 +0800'
+  date_gmt: '2012-07-14 16:32:55 +0800'
+  content: That insight would have saved us a lot of effrot early on.
+- id: 69
+  author: Dario
+  author_email: sgcgolf68@gmail.com
+  author_url: http://www.facebook.com/profile.php?id=100003406269936
+  date: '2012-07-15 09:08:12 +0800'
+  date_gmt: '2012-07-15 01:08:12 +0800'
+  content: Deep thouhgt! Thanks for contributing.
+- id: 136
+  author: pypeNegiamp
+  author_email: 8no1a6ci1u20813vrimi@gmail.com
+  author_url: ''
+  date: '2013-01-28 12:04:12 +0800'
+  date_gmt: '2013-01-28 04:04:12 +0800'
+  content: "http://rrwhy.ucoz.com/blog/2012/2013-01-22-7\r\nhttp://j159.fruitblog.net/50fba8199cec8.html\r\nhttp://my.opera.com/wang118/blog/\r\nhttp://www.nuovincontri.com/member/blog_post_view.php?postId=38529\r\nhttp://qqwang.cocolog-nifty.com/blog/2013/01/20120910-44df.html\r\nhttp://blog.oricon.co.jp/serenahuang/\r\nhttp://blog.goo.ne.jp/h159/e/b5a49ad435bddcac879919b02e308bec\r\nhttp://a159.blog.petitmallblog.jp/blog-entry-208.html\r\nhttp://cheapbaobao.blog.petitmallblog.jp/blog-entry-387.html\r\nhttp://w159.fruitblog.net/50fe3e14864d1.html\r\nhttp://social.mlo.pl/member/manage_blog.php?tab=manage\r\nhttp://q159.exblog.jp/\r\nhttp://filakia.com/member/blog_post_view.php?postId=21559\r\nhttp://w159.fruitblog.net/50fe3d6f0b47e.html\r\nhttp://tarmus-it.netsons.org/member/blog_post_view.php?postId=25570\r\nhttp://amen111test.blog.fc2blog.net/blog-entry-226.html\r\nhttp://qqwang.xanga.com/771260328\r\nhttp://blog.qlep.com/blog.php/221163/714850?categ=1&amp;year=2013&amp;month=1\r\nhttp://www.nuovincontri.com/member/blog_post_view.php?postId=40415\r\nhttp://ameblo.jp/amen199/entry-11453096178.html"
+- id: 148
+  author: wasywoofife
+  author_email: hyt1212124@gmail.com
+  author_url: ''
+  date: '2013-01-31 13:28:17 +0800'
+  date_gmt: '2013-01-31 05:28:17 +0800'
+  content: "http://swingerclubonline.com/member/blog_post_view.php?postId=200029\r\nhttp://ifoni.gr/dating/member/blog_post_view.php?postId=116244\r\nhttp://social.mlo.pl/member/blog_post_view.php?postId=218285\r\nhttp://tarmus-it.netsons.org/member/blog_post_view.php?postId=30331\r\nhttp://social.mlo.pl/member/blog_post_view.php?postId=217974\r\nhttp://tamilcommunity.ca/member/blog_post_view.php?postId=102571\r\nhttp://www.ladyboydating.net/skadate/member/blog_post_view.php?postId=86873\r\nhttp://www.globeallure.com/member/blog_post_view.php?postId=57553\r\nhttp://tamilcommunity.ca/member/blog_post_view.php?postId=102575\r\nhttp://www.dzdate.eb2a.com/member/blog_post_view.php?postId=4159\r\nhttp://www.yourdanzdate.com/member/blog_post_view.php?postId=237237\r\nhttp://www.ladyboydating.net/skadate/member/blog_post_view.php?postId=86674\r\nhttp://tarmus-it.netsons.org/member/blog_post_view.php?postId=30487\r\nhttp://www.yourdanzdate.com/member/blog_post_view.php?postId=237110\r\nhttp://www.ladyboydating.net/skadate/member/blog_post_view.php?postId=86812\r\nhttp://social.mlo.pl/member/blog_post_view.php?postId=217746\r\nhttp://tamilcommunity.ca/member/blog_post_view.php?postId=102567\r\nhttp://www.ladyboydating.net/skadate/member/blog_post_view.php?postId=86804\r\nhttp://social.mlo.pl/member/blog_post_view.php?postId=218286\r\nhttp://www.kurdistan.fm/member/blog_post_view.php?postId=11208"
+- id: 4121
+  author: coach バックパック
+  author_email: thaqblywu@gmail.com
+  author_url: http://www.wzpy-ff.com/バックパック-rooyh1-13.html
+  date: '2013-10-28 16:39:43 +0800'
+  date_gmt: '2013-10-28 08:39:43 +0800'
+  content: アウトレット コーチ
+- id: 4128
+  author: オメガ 正規 オーバーホール
+  author_email: lqntjjg@gmail.com
+  author_url: http://www.247system.net/
+  date: '2013-10-28 18:37:07 +0800'
+  date_gmt: '2013-10-28 10:37:07 +0800'
+  content: オメガ スピードマスター 評価
+- id: 5427
+  author: Jemima
+  author_email: orv9ljfg@mail.com
+  author_url: http://ANYaZq6CDvEj
+  date: '2014-07-31 03:48:51 +0800'
+  date_gmt: '2014-07-30 19:48:51 +0800'
+  content: I can't believe you're not playing with me-h-tat was so helpful.
+- id: 5857
+  author: 充气搅拌式浮选机
+  author_email: lnhmnfwahev@163.com
+  author_url: http://user.qzone.qq.com/2889169923
+  date: '2014-10-07 10:09:14 +0800'
+  date_gmt: '2014-10-07 02:09:14 +0800'
+  content: 闲逛中，还是留个脚印，文章写的不错
+- id: 5893
+  author: 钢球球磨机厂家
+  author_email: zlxapgjyjvz@126.com
+  author_url: http://user.qzone.qq.com/2842116069
+  date: '2014-10-14 17:54:56 +0800'
+  date_gmt: '2014-10-14 09:54:56 +0800'
+  content: to be or not to be that is a question
+- id: 5904
+  author: 湿式球磨机厂家
+  author_email: pfoojtsvhao@126.com
+  author_url: http://www.xkqmj.org/plus/view-68-1.html
+  date: '2014-10-15 21:46:45 +0800'
+  date_gmt: '2014-10-15 13:46:45 +0800'
+  content: That inht’sigs just what I’ve been looking for. Thanks!
+- id: 5905
+  author: 烘干机设备
+  author_email: plxlvg@126.com
+  author_url: http://user.qzone.qq.com/3086966763
+  date: '2014-10-17 00:48:35 +0800'
+  date_gmt: '2014-10-16 16:48:35 +0800'
+  content: 回贴是种美德，支持下!
+- id: 5907
+  author: 钢渣磨粉
+  author_email: plxlvg@126.com
+  author_url: http://user.qzone.qq.com/3087815238
+  date: '2014-10-17 05:24:10 +0800'
+  date_gmt: '2014-10-16 21:24:10 +0800'
+  content: 沉浮中以为情深缘浅、
+- id: 5908
+  author: 分离浮选
+  author_email: plxlvg@126.com
+  author_url: http://user.qzone.qq.com/2114838042
+  date: '2014-10-17 06:06:07 +0800'
+  date_gmt: '2014-10-16 22:06:07 +0800'
+  content: 涨知识了，值得赞一个....
+- id: 5913
+  author: 节能球磨机
+  author_email: jjzjkkmq@126.com
+  author_url: http://user.qzone.qq.com/2903959233
+  date: '2014-10-17 23:20:28 +0800'
+  date_gmt: '2014-10-17 15:20:28 +0800'
+  content: 透过你深邃的文字,我仿佛看到了你鹰视狼顾,龙行虎步的伟岸英姿;仿佛看到了你手执如椽大笔,写天下文章的智慧神态;仿佛看见了你按剑四顾,江山无数的英武气概!
+- id: 5915
+  author: 稀土浮选机
+  author_email: jjzjkkmq@126.com
+  author_url: http://user.qzone.qq.com/2862054648
+  date: '2014-10-18 02:55:30 +0800'
+  date_gmt: '2014-10-17 18:55:30 +0800'
+  content: 虽然不懂楼主在说什么，但看起来貌似很厉害的样子
+- id: 5916
+  author: 选矿设备
+  author_email: jjzjkkmq@126.com
+  author_url: http://www.hnxbzg.com
+  date: '2014-10-18 04:30:54 +0800'
+  date_gmt: '2014-10-17 20:30:54 +0800'
+  content: 我要把你这篇帖子牢牢的记在心里，刻在脑海里；我要去学活字印刷，把这篇帖子印成铅字；我要去学雕刻，把这篇帖子雕成雕像
+- id: 5917
+  author: 烘干机设备
+  author_email: jjzjkkmq@126.com
+  author_url: http://user.qzone.qq.com/3087662709
+  date: '2014-10-18 07:50:18 +0800'
+  date_gmt: '2014-10-17 23:50:18 +0800'
+  content: 涨知识了，值得赞一个....
+- id: 5942
+  author: 石灰竖窑
+  author_email: nrkmkclw@126.com
+  author_url: http://user.qzone.qq.com/2241395242
+  date: '2014-10-25 01:41:31 +0800'
+  date_gmt: '2014-10-24 17:41:31 +0800'
+  content: 看了楼主的帖子后，我终于忍不住回帖了，在网络上我并不经常回帖，可是楼主在 这个帖子里面的表现之优秀，让我觉得不能错过这个机会。
+- id: 5987
+  author: 烘干机回转式烘干机
+  author_email: bfpgwqt@126.com
+  author_url: http://user.qzone.qq.com/2094391455
+  date: '2014-11-04 18:49:37 +0800'
+  date_gmt: '2014-11-04 10:49:37 +0800'
+  content: 楼主,请原谅我的自私!我知道无论用多么华丽的辞藻来形容楼主您帖子的精彩程度都是不够的,都是虚伪的,所以我只想说一句:您的帖子太好了!
+- id: 6140
+  author: 大型球磨机
+  author_email: ngyggbu@126.com
+  author_url: http://user.qzone.qq.com/2816857449
+  date: '2014-11-26 01:44:29 +0800'
+  date_gmt: '2014-11-25 17:44:29 +0800'
+  content: O my God ，写的太好了，值得赞一个.....
+- id: 6143
+  author: 干式球磨机
+  author_email: ngyggbu@126.com
+  author_url: http://user.qzone.qq.com/3077165109
+  date: '2014-11-26 03:15:33 +0800'
+  date_gmt: '2014-11-25 19:15:33 +0800'
+  content: 不要感谢我的来访，也不要问我是谁，请叫我雷锋叔叔........
+- id: 6145
+  author: 球磨机
+  author_email: ngyggbu@126.com
+  author_url: http://user.qzone.qq.com/1578253536
+  date: '2014-11-26 07:04:39 +0800'
+  date_gmt: '2014-11-25 23:04:39 +0800'
+  content: 看完楼主的帖子，我心情沉重，首先我起身去冰箱拿了一瓶纯真年代，然后打开窗户，对着天空大声的宣泄出我心中的疑惑：原来这也可以啊
+---
+<div id="msgcns!66CD003054696B87!466" class="bvMsg">
+<p><font color="#000000">wiki招惹谁了？</font></p>
+<p><font color="#ff9900">什么是wiki</font></p>
+<p>wiki是一种架设在互联网上的软件。这种软件是人们用来共创共享信息的。至于共创共享些什么信息，这完全取决于使用这种软件的人们。换言之，人们可以把任何信息都当作共创共享的信息。当然一般而言，人们会把那些对自身有意义、有价值的信息当作共创共享的对象。作为这样一种用于共创共享信息的软件，它都有哪些特点呢？ <br />1，开放。不分地域、种族、信仰、肤色、语言、男女、长幼、学历、贫富，只要能够登陆因特网，所有人都可以参与其中。 <br />2，自_由。一般在这种软件上只需要遵守极少的规则。 <br />3，合作。世界上最幸福的事莫过于人与人之间能够心意相通、团结一致、密切配合。在wiki的世界里你能充分体验到这种幸福。一个人永远是孤独的、孤单的、无能的、虚弱的。与别人合作吧，你的心灵将充满温暖、欢乐、勇气和力量。</p>
+<p><font color="#ff9900">什么是“Wikipedia维基百科”</font></p>
+<p>多数人对WIKI的兴趣部分源自维基百科（Wikipedia）的成功，维基百科是网上免费的百科全书，它依靠众多投稿人来增加和修改其条目。自从2001年创建以来，维基百科的英文版本不断扩充内容，现在已经包含48万个条目，而且已经有了许多其他语言版本。 </p>
+<p>维基百科也许是最有名的wiki，不过它不是第一个。世界上第一个wiki是一个叫做波特兰模式知识库（Portland Pattern Repository）的计算机编程网站，由沃德·坎宁安（Ward Cunningham）于1995年创建。 </p>
+<p>wiki和blog有何不同？</p>
+<p>wiki都有edit this page 的链接，允许访问者对页面做出修改。这个链接的存在是wiki区别于Web log和blog的地方，后两者允许读者发表针对性的评论来提供反馈信息，但是除了编辑自己发表的内容，不能修改其他任何东西。 </p>
+<p>blog可以用来建立具有共同兴趣爱好的人们组成的社区。而wiki在这个基础上更向前迈了一步，可以构建共识（consensus-building）。想象一下：一组人坐在一块白板面前，任何人都可以在上面添加想法，做出修改，甚至擦掉一点东西，你就可以对wiki有了个大致的印象。 </p>
+<p>wiki的优势在哪里？</p>
+<p>以当今快节奏的商业工作为例，远距离的人员之间良好的的交流沟通和想法共享（idea-sharing）将是企业的竞争优势。访问wiki的要求只是因特网连接和一个Web浏览器，比其他一些协作应用程序和组件容易部署和使用。通过让人们在wiki上共享信息页还可以减轻收件箱的负荷，减少协同工作人员之间的电子邮件发送数量。</p>
+<p>为什么企业重视wiki？</p>
+<p>由于维基百科的成功，关于wiki的讨论也越来越多，而这种媒体具有的集体性的潜力还远远没有被开发出来。毫无疑问，wiki可以用于公司的内部和外部应用中。对于一些在企业内部网络中信息更新存在问题的公司来说，wiki使得雇员和客户能自己来做更新。wiki也能帮助调整内部的开发项目，在这一领域中wiki已经开始有所作为了。</p>
+<p>wiki也能被用来构建网上客户社区，用以提供建议和支持。有的公司在对公众开放公司站点上也许还感到有些害怕，但是随着客户忠诚度和满意度的不断提升，作为回报，他们对公司的信任程度也将不断扩大。</p>
+<p>谁控制着wiki的内容？</p>
+<p>理论上来说，没有人能控制，同时每个人都可以控制。每个读者对wiki上的内容都拥有修改，添加和删除的权利，只要他感觉合适。对一些组织来说，接受这种缺少集中控制的状态需要在观念上有比较大的改变。wiki看起来像是一个进入无政府世界的邀请－－对网上恶意破坏的人来说他们可以随意的修改，甚至删除一些重要的内容－－但是在现实中，这种情况几乎不会发生。</p>
+<p>即时如此，对wiki的使用设定一些基本的规则还是必要的。</p>
+<p>为了防止重要信息被修改或删除，系统管理员可以对某些特定的页面进行保护，使其不可修改。事实上，即使一个重要的页面已被删除或修改了，也不用担心。wiki是一个网上信息数据库，每次对其进行的修改都会被记录下来，并且是可恢复的。</p>
+<p>如何开始wiki之旅？</p>
+<p>有若干的开源软件包可以免费下载，包括TWiki。另外一些主机应用程序，比如Socialtext和JotSpot（都在测试阶段）也可以在网上下载到。</p>
+</div>

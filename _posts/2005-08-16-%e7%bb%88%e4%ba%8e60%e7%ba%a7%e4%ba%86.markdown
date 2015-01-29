@@ -1,0 +1,18 @@
+---
+layout: post
+status: publish
+published: true
+title: 终于60级了
+author_url: http://caofei.org
+wordpress_id: 62
+wordpress_url: http://caofei.wordpress.com/2005/08/16/%e7%bb%88%e4%ba%8e60%e7%ba%a7%e4%ba%86
+date: '2005-08-16 16:27:52 +0800'
+date_gmt: '2005-08-16 08:27:52 +0800'
+categories:
+- World of warcraft
+tags: []
+comments: []
+---
+<div id="msgcns!66CD003054696B87!384" class="bvMsg">
+<div>昨天晚上终于60级了<img src="/rte/emoticons/smile_shades.gif" />接下来的目标是……还真没什么目标，瞎玩吧。以后要去NEC了上班时不能玩WOW了。</div>
+</div>

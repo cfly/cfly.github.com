@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: InterAKT
+author_url: http://caofei.org
+wordpress_id: 19
+wordpress_url: http://caofei.wordpress.com/2006/11/18/interakt
+date: '2006-11-18 18:46:58 +0800'
+date_gmt: '2006-11-18 10:46:58 +0800'
+categories:
+- 计算机与 Internet
+tags: []
+comments: []
+---
+<div id="msgcns!66CD003054696B87!958" class="bvMsg">
+<div>自从eclipse出了3.2.1之后就没用过jseclipse,因为它不支持新的eclipse。今天想试一下prototype，想到了jseclipse，取官方网站看了一下，在右上角看到一句话：InterAKT has been acquired by Adobe.又一次感受到：有钱就是好啊。InterAKT 卖身了，这个公司有32个人，收购之后全部人都进了adobe公司，InterAKT 除了jseclipse还有几个项目有的继续发扬，有的搁浅了。找了一下InterAKT的财务报表，结果没找到，倒不是想看看它有多少钱，我感兴趣的是这种公司在中国能不能存活，卖给adobe应该是个好主,macromedia当初不是也卖给他了吗，相关产品好像发展得还不错flashplayer9.0.28刚刚出来，其他产品估计也快出来了吧。</div>
+<div>又想到flash了，回忆一下，我是从flash5玩起的，喜欢当时的阿贵系列，觉得挺简单的，学了一阵，只会做简单的motion，慢慢觉得艺术家的伟大，后来知道了actionscript,as2,做过碰撞，重力之类的一些东西，乐在其中。然后决定放弃，毫无根据的认为把java玩通了flash就自然就简单了。现在看来除了灵感、艺术之外好像还真蒙对了。现在的as3,mx lib什么的虽然没看过，估计用以来很快就会游刃有余的。as-&gt;as2-&gt;as3和javascript-&gt;java还真有些类似。</div>
+<div>扯远了，说InterAKT呢，怎么跑题了。也没什么说的了，都卖了。thx &amp; good luck</div>
+</div>

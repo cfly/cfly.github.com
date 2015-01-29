@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: 纪念给我带来痛苦的牙神经
+author_url: http://caofei.org
+wordpress_id: 27
+wordpress_url: http://caofei.wordpress.com/2006/05/19/%e7%ba%aa%e5%bf%b5%e7%bb%99%e6%88%91%e5%b8%a6%e6%9d%a5%e7%97%9b%e8%8b%a6%e7%9a%84%e7%89%99%e7%a5%9e%e7%bb%8f
+date: '2006-05-19 20:21:10 +0800'
+date_gmt: '2006-05-19 12:21:10 +0800'
+categories:
+- 健康与保健
+tags: []
+comments: []
+---
+<div id="msgcns!66CD003054696B87!837" class="bvMsg">
+<div>今天我左边一颗龋齿的牙神经永远的离开了我，虽然我前一阵的痛感都是它给我带来的，可是我还是舍不得它，如果将来这颗牙齿发炎了，那个时候我会更加地怀念它。今天，它离开我时我感受到了，它不愿意离开我，我也不愿意离开它，真TMD痛...</div>
+<div>ps:建议每年做一次牙齿检查。(花销)/(你的年收入)=?</div>
+<div>在你健康的时候和你牙齿疼痛的时候，同样的数字能给你不同的感受</div>
+</div>

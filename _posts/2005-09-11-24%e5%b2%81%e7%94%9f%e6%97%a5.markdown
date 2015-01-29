@@ -1,0 +1,46 @@
+---
+layout: post
+status: publish
+published: true
+title: 24岁生日
+author_url: http://caofei.org
+wordpress_id: 57
+wordpress_url: http://caofei.wordpress.com/2005/09/11/24%e5%b2%81%e7%94%9f%e6%97%a5
+date: '2005-09-11 02:41:57 +0800'
+date_gmt: '2005-09-10 18:41:57 +0800'
+categories:
+- 未分类
+tags: []
+comments:
+- id: 5
+  author: Unknown
+  author_email: ''
+  author_url: ''
+  date: '2005-09-11 22:34:38 +0800'
+  date_gmt: '2005-09-11 14:34:38 +0800'
+  content: 曹哥生日快乐...
+- id: 42
+  author: Laiisa
+  author_email: sardagh@companydirectors.com.au
+  author_url: http://www.facebook.com/profile.php?id=100003406272501
+  date: '2012-07-14 10:27:17 +0800'
+  date_gmt: '2012-07-14 02:27:17 +0800'
+  content: That's really thinking at an imrpsesive level
+- id: 5492
+  author: Geraldine
+  author_email: 21b1u9j75@mail.com
+  author_url: http://6DghxATdgRbd
+  date: '2014-08-01 11:55:58 +0800'
+  date_gmt: '2014-08-01 03:55:58 +0800'
+  content: An intgelielnt answer - no BS - which makes a pleasant change
+- id: 5538
+  author: Carley
+  author_email: me7t2693@yahoo.com
+  author_url: http://m4i6KwIie7tK
+  date: '2014-08-08 00:11:15 +0800'
+  date_gmt: '2014-08-07 16:11:15 +0800'
+  content: Arectlis like this are an example of quick, helpful answers.
+---
+<div id="msgcns!66CD003054696B87!445" class="bvMsg">
+<div>没啥特别的感觉。和学生比起来确实老了，看着愤青的YY式的反抗毫无疑问的被评价为小P孩儿理论。反过来想在年长的人看来自己仍旧是个小P孩儿。崇尚自认科学的我曾经很佩服那些老外，佩服他们的一切。现在看来也只有他们一部分人对自认科学的态度令我佩服了。和老外比起来中国人太聪明了，一个孔老二就够他们研究一辈子的，还不一定能研究出什么东西来。有些东西只能意会不可言传，不能意会说了也是白说，就像放P一样。时不时的就能意会出一些P味儿，不知道以后还能闻到什么......</div>
+</div>

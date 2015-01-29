@@ -1,0 +1,18 @@
+---
+layout: post
+status: publish
+published: true
+title: 切·格瓦拉
+author_url: http://caofei.org
+wordpress_id: 21
+wordpress_url: http://caofei.wordpress.com/2006/10/08/%e5%88%87%c2%b7%e6%a0%bc%e7%93%a6%e6%8b%89
+date: '2006-10-08 18:06:34 +0800'
+date_gmt: '2006-10-08 10:06:34 +0800'
+categories:
+- 未分类
+tags: []
+comments: []
+---
+<div id="msgcns!66CD003054696B87!947" class="bvMsg">
+<div>/*<br /> * 小时候玩过一款游戏叫《古巴英雄》。主角1个人爆破，抢战车，扔雷，杀敌...<br /> * 敌人是谁？不知道。记得当时玩得挺爽的。<br /> * 前一阵从锵锵三人行那知道了这个人，古巴英雄，红色罗宾汉。<br /> * 今天纪念一下这个人。<br /> */</div>
+</div>

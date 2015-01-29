@@ -1,0 +1,18 @@
+---
+layout: post
+status: publish
+published: true
+title: prototype 1.5
+author_url: http://caofei.org
+wordpress_id: 15
+wordpress_url: http://caofei.wordpress.com/2007/01/20/prototype-1-5
+date: '2007-01-20 19:58:59 +0800'
+date_gmt: '2007-01-20 11:58:59 +0800'
+categories:
+- 计算机与 Internet
+tags: []
+comments: []
+---
+<div id="msgcns!66CD003054696B87!975" class="bvMsg">
+<div>prototype 1.5 出来了.<br />人类真是一种神奇的动物,有人能做出这种东西来.<br />它为什么会出现呢?javascript?浏览器?微软?Netscape?<br />它的出现是偶然?还是必然?<br /><a href="http://prototypejs.org/">http://prototypejs.org/</a><br /><a href="http://www.sergiopereira.com/articles/prototype.js.html">http://www.sergiopereira.com/articles/prototype.js.html</a></div>
+</div>

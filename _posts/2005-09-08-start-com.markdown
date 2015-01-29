@@ -1,0 +1,18 @@
+---
+layout: post
+status: publish
+published: true
+title: start.com
+author_url: http://caofei.org
+wordpress_id: 58
+wordpress_url: http://caofei.wordpress.com/2005/09/08/start-com
+date: '2005-09-08 13:24:30 +0800'
+date_gmt: '2005-09-08 05:24:30 +0800'
+categories:
+- 计算机与 Internet
+tags: []
+comments: []
+---
+<div id="msgcns!66CD003054696B87!396" class="bvMsg"><a href="http://www.start.com">http://www.start.com</a></p>
+<div>interesting web that made by M$.Try it...(maybe need .net passport)</div>
+</div>

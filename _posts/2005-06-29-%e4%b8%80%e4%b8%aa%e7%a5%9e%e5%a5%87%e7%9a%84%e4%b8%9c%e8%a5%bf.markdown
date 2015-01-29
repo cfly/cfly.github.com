@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: 一个神奇的东西
+author_url: http://caofei.org
+wordpress_id: 70
+wordpress_url: http://caofei.wordpress.com/2005/06/29/%e4%b8%80%e4%b8%aa%e7%a5%9e%e5%a5%87%e7%9a%84%e4%b8%9c%e8%a5%bf
+date: '2005-06-29 17:07:34 +0800'
+date_gmt: '2005-06-29 09:07:34 +0800'
+categories:
+- 计算机与 Internet
+tags: []
+comments: []
+---
+<div id="msgcns!66CD003054696B87!369" class="bvMsg">
+<div><a href="http://earth.google.com">http://earth.google.com</a></div>
+<div>今天在上面转了一天，找到了金字塔，斯芬克斯，凯旋门，自由女神像，富士山，明石大桥，东方明珠，以及北京的一堆东西，埃菲尔铁塔没找到，长城可能找到了，不确定是长城。</div>
+<div>另外看到了China和其他国家的一部分区别...</div>
+</div>

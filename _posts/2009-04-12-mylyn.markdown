@@ -1,0 +1,30 @@
+---
+layout: post
+status: publish
+published: true
+title: mylyn
+author_url: http://caofei.org
+wordpress_id: 6
+wordpress_url: http://caofei.wordpress.com/2009/04/12/mylyn
+date: '2009-04-12 00:59:59 +0800'
+date_gmt: '2009-04-11 16:59:59 +0800'
+categories:
+- 计算机与 Internet
+tags: []
+comments: []
+---
+<div id="msgcns!66CD003054696B87!1293" class="bvMsg">
+<p>很早就听说mylyn这东西，对他的印象是task&amp;focus。
+<p>最近在项目中用的一下，感觉很爽（很感性是吧），真的是task&amp;focus。去它的官网&amp;infoq看了介绍，感觉作者很牛，思维方式就很牛。
+<p><a href="https://sjofyw.bay.livefilestore.com/y1mw-4Gl_qApgJIHD_C8oW6qnk0UHtzE1-ELX-XTgjlMRZOn_Mn5b0GcVLgIZDdbKyNyUW72tpAdilSwgMO0HFHjKKnxQPnggeumh2G8-vsnYdkN3P8tdmeOyl8-wmDestDlwM-t-ArgsbtXn1AYAntiA/image[17].png" rel="WLPP"><img border="0" src="https://sjofyw.bay.livefilestore.com/y1m5pSE1sanv4ucWJlmPfd5EtYtUIqsc-Fccv4Xzk67lQElqGTcHFcoHuOpOAuO5ivLq3FbD5UIFXiR0DKe83XwfaosLd49e-epzKkWI2s6stXqKywqcmnmfHMYp__1bNlyyosLT1rSar6GdSZ-FA7ZxQ/image_thumb[11].png" /></a><br />简单介绍一下，官网介绍是英文的，我听不懂，也没看完，简单说两句。这个东西是根据人脑的特性而建造的，目标是更好的完成任务（task）和其中精力在当前任务（focus）。举例来说对于很多模块（机能）我们一般不会关注与所有的模块，对于一个模块也不会关注这个模块用不到的相关内容（上下文，context）。每个任务（task）有自己的相关文件（上下文，context），我们对各个相关文件以及每个文件中的不同内容的关注程度也是不一样的，我们多这些文件以及不同内容的关注程度就形成了focus。这样做的目的是为了适应我们大脑的工作方式，不只是程序员，其他的工作也是这样，作者为了让工作方式适合大脑的工作方式创建了这套筒西，包括，mylyn给程序员用的以及tasktop也可以为其他行业所用（作者是这么说的，我没做考察）。
+<p><a href="http://caofei.org/wordpress/wp-content/uploads/2011/02/5ebb1feeb1b64b4e580e1bd43ed12139.png" rel="WLPP"><img border="0" src="http://caofei.org/wordpress/wp-content/uploads/2011/02/5ebb1feeb1b64b4e580e1bd43ed12139.png?w=300" /></a><br />说一下我在项目中的实际感受。
+<ol>
+<li>我的大脑中不用记住很多的东西，因为mylyn已经帮我做了一些硬性存储的工作，这个是计算机超越人脑的功能，比如如果2年后我再来维护我做过的一个项目，我肯定没有2年前熟悉，mylyn帮我定位了我在两年前关注的内容，缩小了上下文（context）。
+<li>我能集中精力关注关键部分，因为mylyn记住了我的关注历史（focus）。
+<li>我能在多个任务之间自由切换，每个任务有自己的上下文和关注点，我不用把所有任务都放在大脑中（task）。</li>
+</ol>
+<p><a href="http://caofei.org/wordpress/wp-content/uploads/2011/02/7db427503eac70f0a434b3d8872e6903.png" rel="WLPP"><img border="0" src="http://caofei.org/wordpress/wp-content/uploads/2011/02/7db427503eac70f0a434b3d8872e6903.png?w=300" /></a>
+<p>想起了大学时数据仓库里说道的一句话：几十年前我们找不到想要的结果，因为数据太少了，几十年后我们同样找不到我们想要的结果，因为数据实在太多了。<br />mylyn能帮你过滤出你想要的……（非广告，有兴趣的推荐试试）
+<p><a href="http://www.infoq.com/cn/news/2008/02/tasktop-10"><a href="http://www.infoq.com/cn/Mylyn">http://www.infoq.com/cn/Mylyn</a></a>
+<p>
+<p>ps:我的工作方式是在大脑中有个tasklist，这个list的size太大了之后会觉得工作效率下降，我理解为计算机现在发展成双核四核X核，人脑应该远大于这个X（分布式，云计算除外）但是人脑对时间片的分布没有计算机处理得好，所以做任务切换这个动作时产生的副作用挺大的（要不古人云：一心不可二用呢）。当这个tasklist是空的时候也就是下班的时候已经完成了所有的任务的时候，到家里往沙发上一坐什么都不想，就在那脑袋空空的坐着真是一种享受。可能男同胞们会有同感，和身边的女同胞们也聊过这个话题，好像她们的思维方式不太一样，所以作者的这个东西不一定适合女同胞们（没性别歧视的意思，请勿对号入座）。  </p></div>

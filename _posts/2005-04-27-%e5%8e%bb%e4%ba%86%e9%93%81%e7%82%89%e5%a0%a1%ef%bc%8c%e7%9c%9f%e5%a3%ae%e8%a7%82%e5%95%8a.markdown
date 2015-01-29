@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: 去了铁炉堡，真壮观啊
+author_url: http://caofei.org
+wordpress_id: 81
+wordpress_url: http://caofei.wordpress.com/2005/04/27/%e5%8e%bb%e4%ba%86%e9%93%81%e7%82%89%e5%a0%a1%ef%bc%8c%e7%9c%9f%e5%a3%ae%e8%a7%82%e5%95%8a
+date: '2005-04-27 00:46:11 +0800'
+date_gmt: '2005-04-26 16:46:11 +0800'
+categories:
+- World of warcraft
+tags: []
+comments: []
+---
+<div id="msgcns!66CD003054696B87!309" class="bvMsg">
+</div>
+<table cellspacing="0" border="0">
+<tr>
+<td></td>
+</tr>
+<tr>
+<td valign="top"><a href="http://byfiles.storage.live.com/y1prF9k9EWs5p8M8SmHAZfUNW_I-4V9sgmH1gaO97Cc99uqdAKsH_9VxQoVVooAUbvAD7dOYB3v6nw" target="_blank" rel="WLPP;url=http://byfiles.storage.live.com/y1prF9k9EWs5p8M8SmHAZfUNW_I-4V9sgmH1gaO97Cc99uqdAKsH_9VxQoVVooAUbvAD7dOYB3v6nw;cnsid=cns&#033;66CD003054696B87&#033;310"><img src="http://byfiles.storage.live.com/y1prF9k9EWs5p8M8SmHAZfUNW_I-4V9sgmHglS9CnQDyUDyNSSpc86mGyAfq0aAAe86vkOHuZckNbk" border="0" /></a></td>
+<td width="15"></td>
+<td valign="top"><a href="http://byfiles.storage.live.com/y1pI3SDQUfbKIeeENCwlqqxs_G9XZ1Fh1hx033LlxPAtQEyxfE6MCQ6LUihGEUpBV5pH2XSEy_rxcI" target='_blank' rel="WLPP;url=http://byfiles.storage.live.com/y1pI3SDQUfbKIeeENCwlqqxs_G9XZ1Fh1hx033LlxPAtQEyxfE6MCQ6LUihGEUpBV5pH2XSEy_rxcI;cnsid=cns&#033;66CD003054696B87&#033;311"><img src="http://byfiles.storage.live.com/y1pI3SDQUfbKIeeENCwlqqxs_G9XZ1Fh1hxkjPde6SkpTQgLMOf5bWo8SpDUIcpm6BCVrO8-ZcyQ68" border="0" /></a></td>
+</tr>
+</table>

@@ -1,0 +1,47 @@
+---
+layout: post
+status: publish
+published: true
+title: 今天看了三国之见龙卸甲
+author_url: http://caofei.org
+wordpress_id: 9
+wordpress_url: http://caofei.wordpress.com/2008/04/28/%e4%bb%8a%e5%a4%a9%e7%9c%8b%e4%ba%86%e4%b8%89%e5%9b%bd%e4%b9%8b%e8%a7%81%e9%be%99%e5%8d%b8%e7%94%b2
+date: '2008-04-28 00:56:00 +0800'
+date_gmt: '2008-04-27 16:56:00 +0800'
+categories:
+- 未分类
+tags: []
+comments:
+- id: 24
+  author: 一
+  author_email: ''
+  author_url: ''
+  date: '2008-04-28 21:09:04 +0800'
+  date_gmt: '2008-04-28 13:09:04 +0800'
+  content: haha
+- id: 51
+  author: Britney
+  author_email: usyoo@joseilbo.com
+  author_url: http://www.facebook.com/profile.php?id=100003406278419
+  date: '2012-07-14 18:42:06 +0800'
+  date_gmt: '2012-07-14 10:42:06 +0800'
+  content: Gee whiz, and I touhght this would be hard to find out.
+- id: 66
+  author: Fumiko
+  author_email: tourdecoop@gmail.com
+  author_url: http://www.facebook.com/profile.php?id=100003406292344
+  date: '2012-07-15 07:47:33 +0800'
+  date_gmt: '2012-07-14 23:47:33 +0800'
+  content: Never seen a bteetr post! ICOCBW
+- id: 5531
+  author: Emre
+  author_email: fgvm93r9u@yahoo.com
+  author_url: http://JeV9hXPILP
+  date: '2014-08-07 20:07:08 +0800'
+  date_gmt: '2014-08-07 12:07:08 +0800'
+  content: Yeah that's what I'm talking about baic--nbye work!
+---
+<div id="msgcns!66CD003054696B87!1252" class="bvMsg">
+<p>写个影评吧，要不然对不起这1个多小时。</p>
+<p>我的影评就是:shift+delete</p>
+</div>

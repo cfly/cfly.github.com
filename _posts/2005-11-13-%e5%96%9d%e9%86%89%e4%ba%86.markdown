@@ -1,0 +1,18 @@
+---
+layout: post
+status: publish
+published: true
+title: 喝醉了
+author_url: http://caofei.org
+wordpress_id: 45
+wordpress_url: http://caofei.wordpress.com/2005/11/13/%e5%96%9d%e9%86%89%e4%ba%86
+date: '2005-11-13 02:26:19 +0800'
+date_gmt: '2005-11-12 18:26:19 +0800'
+categories:
+- 杂谈
+tags: []
+comments: []
+---
+<div id="msgcns!66CD003054696B87!471" class="bvMsg">
+<div>2005年11月11日晚公司聚餐居然喝醉了，被别人扛回去的，唱歌也没去成，有些遗憾。这是第一次喝醉了，今生都忘不了。有些东西想记住但是很快就被忘记，有些东西想忘掉，却永远也忘不掉。</div>
+</div>

@@ -1,0 +1,19 @@
+---
+layout: post
+status: publish
+published: true
+title: 趣事
+author_url: http://caofei.org
+wordpress_id: 16
+wordpress_url: http://caofei.wordpress.com/2007/01/19/%e8%b6%a3%e4%ba%8b
+date: '2007-01-19 20:22:29 +0800'
+date_gmt: '2007-01-19 12:22:29 +0800'
+categories:
+- 娱乐
+tags: []
+comments: []
+---
+<div id="msgcns!66CD003054696B87!974" class="bvMsg">
+<p>今天向找个linux的企鹅图片，在google、Flickr、Yahoo、baidu的图片搜索上分别搜了一把，输入关键字&quot;linux&quot;，google、Flickr、baidu的结果没发现满意的，Yahoo的结果最漂亮，直流口水......</p>
+<p>不信你自己试试看</p>
+</div>

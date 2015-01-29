@@ -1,0 +1,105 @@
+---
+layout: post
+status: publish
+published: true
+title: diablo3 log
+author_login: cfly
+author_email: cf0@me.com
+author_url: http://caofei.org
+wordpress_id: 122
+wordpress_url: http://caofei.org/wordpress/?p=122
+date: '2012-06-28 17:11:53 +0800'
+date_gmt: '2012-06-28 09:11:53 +0800'
+categories:
+- diablo
+tags:
+- diablo
+- game
+comments: []
+---
+<p>玩了一个多月diablo3，现在才52级，打打杀杀意思不大，想卖宝石赚钱，算了一下利润真是惨不忍睹，钱都被blizzard收回去了。</p>
+<p>以下是6月25号的行情。</p>
+<table width="474" border="0" cellspacing="0" cellpadding="0">
+<colgroup>
+<col width="68" />
+<col width="81" />
+<col width="68" />
+<col width="62" />
+<col width="81" />
+<col width="62" />
+<col width="52" /></colgroup>
+<tbody>
+<tr>
+<td width="68" height="19">　</td>
+<td width="81"> </td>
+<td width="68">奥秘之书</td>
+<td width="62">手工费</td>
+<td width="81">　</td>
+<td width="62">　</td>
+<td width="52">　</td>
+</tr>
+<tr>
+<td width="68" height="19">无暇方正</td>
+<td align="right" width="81">100</td>
+<td align="right" width="68">500</td>
+<td>　</td>
+<td width="81">AH卖价</td>
+<td width="62">利润</td>
+<td>利润率</td>
+</tr>
+<tr>
+<td width="68" height="19">完美方正</td>
+<td align="right" width="81">31,800</td>
+<td align="right" width="68">需要3本</td>
+<td align="right" width="62">30,000</td>
+<td align="right" width="81">38,000</td>
+<td align="right" width="62">500</td>
+<td align="right" width="52">1.57</td>
+</tr>
+<tr>
+<td width="68" height="19">璀璨方正</td>
+<td align="right" width="81">148,400</td>
+<td align="right" width="68">需要6本</td>
+<td align="right" width="62">50,000</td>
+<td align="right" width="81">179,000</td>
+<td align="right" width="62">3,750</td>
+<td align="right" width="52">2.53</td>
+</tr>
+<tr>
+<td width="68" height="19">星芒</td>
+<td align="right" width="81">529,700</td>
+<td align="right" width="68">需要9本</td>
+<td align="right" width="62">80,000</td>
+<td align="right" width="81">640,000</td>
+<td align="right" width="62">14,300</td>
+<td align="right" width="52">2.70</td>
+</tr>
+<tr>
+<td width="68" height="19">无暇星芒</td>
+<td align="right" width="81">1,695,100</td>
+<td align="right" width="68">需要12本</td>
+<td align="right" width="62">100,000</td>
+<td align="right" width="81">2,137,000</td>
+<td align="right" width="62">121,350</td>
+<td align="right" width="52">7.16</td>
+</tr>
+<tr>
+<td width="68" height="19">完美星芒</td>
+<td align="right" width="81">5,292,800</td>
+<td align="right" width="68">需要15本</td>
+<td align="right" width="62">200,000</td>
+<td align="right" width="81">6,400,000</td>
+<td align="right" width="62">147,200</td>
+<td align="right" width="52">2.78</td>
+</tr>
+<tr>
+<td width="68" height="17">璀璨星芒</td>
+<td align="right" width="81">16,288,400</td>
+<td align="right" width="68">需要20本</td>
+<td align="right" width="62">400,000</td>
+<td align="right" width="81">19,400,000</td>
+<td align="right" width="62">201,600</td>
+<td align="right" width="52">1.24</td>
+</tr>
+</tbody>
+</table>

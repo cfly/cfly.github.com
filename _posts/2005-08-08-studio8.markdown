@@ -1,0 +1,16 @@
+---
+layout: post
+status: publish
+published: true
+title: Studio8
+author_url: http://caofei.org
+wordpress_id: 64
+wordpress_url: http://caofei.wordpress.com/2005/08/08/studio8
+date: '2005-08-08 22:09:35 +0800'
+date_gmt: '2005-08-08 14:09:35 +0800'
+categories:
+- 计算机与 Internet
+tags: []
+comments: []
+---
+<div id="msgcns!66CD003054696B87!379" class="bvMsg">DREAMWEAVER8 FLASH8 FIREWORKS8 都来了，挺好挺好。感觉好像和ADOBE没什么关系时的^^不知道好用不好用。期待</div>

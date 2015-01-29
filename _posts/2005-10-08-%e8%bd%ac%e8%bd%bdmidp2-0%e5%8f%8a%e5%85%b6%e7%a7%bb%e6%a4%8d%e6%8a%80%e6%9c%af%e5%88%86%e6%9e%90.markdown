@@ -1,0 +1,203 @@
+---
+layout: post
+status: publish
+published: true
+title: '[转载]MIDP2.0及其移植技术分析'
+author_url: http://caofei.org
+wordpress_id: 52
+wordpress_url: http://caofei.wordpress.com/2005/10/08/%e8%bd%ac%e8%bd%bdmidp2-0%e5%8f%8a%e5%85%b6%e7%a7%bb%e6%a4%8d%e6%8a%80%e6%9c%af%e5%88%86%e6%9e%90
+date: '2005-10-08 16:55:49 +0800'
+date_gmt: '2005-10-08 08:55:49 +0800'
+categories:
+- 计算机与 Internet
+tags: []
+comments: []
+---
+<div id="msgcns!66CD003054696B87!460" class="bvMsg">
+<div> <b>摘要：</b>MIDP即移动信息设备规范，是专门基于资源和网络连接有限的移动设备之上的J2ME应用规范。本文在分析MIDP2.0的基础上，详细阐述MIDP的事件处理、文件系统、用户图形接口和网络等主要部分在不同平台间移植的实现过程。 </p>
+<p><span style="font-family:宋体;">    <b>关键词：</b></span>J2ME MIDP 移植 平台无关 本地代码</p>
+<p style="text-indent:0;"><b>1 MIDP2.0简介</b></p>
+<p style="text-indent:30px;">随着现代信息化社会的发展，小型移动通信设备已经从最初的一种单纯的通信工具转变成如今集通信、工作、娱乐等功能为一体的综合设备；但仅有这些还不能满足用户的要求。个性永远是千变万化的，时尚也不会始终为一种模式。因此，在移动终端上开发通用的、丰富的应用已成为必然的趋势。这些应用可以按用户的意愿随时安装和删除。</p>
+<p style="text-indent:30px;">J2ME（JAVA2 Micro Edition）正是这样一种JAVA应用开发平台。实际上，JAVA语言从其诞生起就以其运行的平台无关性这一强大的优势而成为网络应用的宠儿。 J2ME是JAVA2标准版本的微型版本，专门为小型移动设备所设计。这些设备处理器的处理能力都不强，可使用的资源也有限。因此，J2ME只包含了 J2SE中在移动通信设备上所必需的功能和组件，使其能够在移动设备及其有限的资源上开发出丰富多彩且平台无关的应用。J2ME在结构上分为CDC （Connecte Device Configuration）和基于其上，以Foundation Profile为主的规范，以及CLDC（Connecte Limited Device Configuration）和基于其上，以MIDP为主的规范。</p>
+<p style="text-indent:30px;">MIDP（Mobile Information Device Profile）是移信息设备规范的简称。规范具体定义了J2ME适用的硬件和软件框架，并提供了这个框架要实现的基本功能及其标准接口；而应用开发者就可以基于这个框架开发出各种应用。2000年9月，SUN公司发布了MIDP的第一个正式版本MIDP1.0。它将J2ME适用的设备定位在至少拥有数百 KB RAM和ROM，并具有基本网络和显示功能的移动通信设备上；在该基础上定义了一系列软件接的移动通信设备上；在该上基础上定义了一系列软件接口，其中包括基本输入输出、图形化用户接口（GUI）、网络、事件机制、文件系统、应用管理系统（AMS）等之后，随着JAVA技术的不断发展和用户需求的不断提高，SUN公司又于2002年11月发布了MIDP2.0。它对设备的内存资源和处理能力的要求较1.0要高，但MIDP2.0也为应用开发者提供了更方便、更丰富多彩的软件包，主要增加了游戏接口的实现、声音输出接口的实现安全网络机制的实现。MIDP2.0的这些特性将使基于移动设备的JAVA应用具有更加广阔的前景，也必将使新一代的移动设备发生革命性的变化并领导时尚潮流。MIDP2.0接口包如表1所列。</p>
+<p><b>表1 MIDP2.0接口包及其功能</b></p>
+<table width="100%" border="1">
+<tbody>
+<tr>
+<td align="middle" width="45%">包</td>
+<td align="middle" width="55%">功      能</td>
+</tr>
+<tr>
+<td width="45%">javax.microedition.lcdui</td>
+<td align="middle" width="55%">提供一系列用户界面接口</td>
+</tr>
+<tr>
+<td width="45%">javax.microedition.lcdui.game</td>
+<td align="middle" width="55%">专门用于游戏设计的接口</td>
+</tr>
+<tr>
+<td width="45%">javax.microedition.rms</td>
+<td align="middle" width="55%">数据管理，用于保存数据记录</td>
+</tr>
+<tr>
+<td width="45%">javax.microedition.midlet</td>
+<td align="middle" width="55%">JAVA应用管理接口</td>
+</tr>
+<tr>
+<td width="45%">javax.microedition.io</td>
+<td align="middle" width="55%">基本网络连接接口</td>
+</tr>
+<tr>
+<td width="45%">javax.microedition.media</td>
+<td align="middle" width="55%">媒体接口规范（JSR-135）的实现包</td>
+</tr>
+<tr>
+<td width="45%">javax.microedition.media.control</td>
+<td align="middle" width="55%">媒体播放器的控制类</td>
+</tr>
+<tr>
+<td width="45%">javax.microedition.pki</td>
+<td align="middle" width="55%">数字签名规范的实现接口（用于安全网络）</td>
+</tr>
+<tr>
+<td width="45%">java.io</td>
+<td align="middle" width="55%">JAVA基本输入输出接口</td>
+</tr>
+<tr>
+<td width="45%">java.lang</td>
+<td align="middle" width="55%">JAVA基本数据类型接口</td>
+</tr>
+<tr>
+<td width="45%">java.util</td>
+<td align="middle" width="55%">JAVA基本应用接口</td>
+</tr>
+</tbody>
+</table>
+<p style="text-indent:0;"><b>2 MIDP2.0的移植</b></p>
+<p style="text-indent:30px;">既然MIDP2.0是定位在移动通信设备之上的一系列JAVA应用开发接口，我们就必须考虑如何将整个MIDP系统嵌入到特定的硬件设备和其上的操作系统中。只有这样，JAVA应用程序才能运行在该设备上，并利用MIDP提供的强大功能将用户带入一个全新的JAVA世界。在一个完全不同的操作系统平台上，用该平台上对应的系统API调用（或一系列操作），替换MIDP参考实现中所有与操作平台相关的调用（或操作），使MIDP能在目标平台上正确地执行所有要求的功能；同时，调用该平台上特有的能充分发挥目标设备硬件特性的接口，替换参考实现中相应的接口，使MIDP能在目标平台上更高效地运行，这个过程就称为MIDP的移植。</p>
+<p style="text-indent:30px;">MIDP由许多不同的部分组成，每一部分完成MIDP一个特定的功能接口。其中需要移植的部分主要包括事件处理、文件系统、用户图形化接口、网络、AMS、多媒体。它们都分为高端的JAVA层和低端的本地方法层。JAVA层是用JAVA语言实现的，由KVM解释执行；因此没有涉及到与操作系统平台相关的调用和操作，可以不经修改就在任何操作平台上运行，是平台无关的（PlateForm Independent）。它的移植主要是为满足用户的特殊要求而进行的个性化工作。本地方法层（NativeCode）是指为提高代码的执行效率，保持 JAVA语言的平台无关性而使用C语言实现的部分MIDP功能的代码。本地即是指它是与当前的操作平台相关的，它的移植才是涉及到具体平台和执行效率而进行的具体调用和操作的替换过程，其结构如图1所示。</p>
+<p style="text-indent:30px;">下面，我们就具体到MIDP的每一个部分的移植进行讨论。</p>
+<p style="text-indent:30px;">2.1 事件处理</p>
+<p style="text-indent:30px;">MIDP的事件处理部分要处理的事件主要来自两个方面：①来自虚拟机底层的事件，如虚拟机的异常消息；②来自MIDP内部的事件，如屏幕刷新、按键消息、触控笔点击消息、时钟消息等。由于不同的平台可能使用不同的事件消息获取和传递机制，因此 MIDP事件处理的移植也集中在这上面，其实现被放在本地方法层的文件nativeGUI.c中的函数GetAndStoreKVMEvent中。我们只需根据目标平台获取和传递事件的要求修改该文件中的相应函数即可。</p>
+<p style="text-indent:30px;">例如，Windows采用消息响应机制来处理各种事件，所有消息都可以通过系统API调用 GetMessage获取，系统会调用消息处理函数WndProc(HWND hwnd、UINTiMsg、WPARAM wParam、LRARAM 1Param)，在其中处理和传递不同的事件。其大致实现过程如下：</p>
+<p style="text-indent:30px;">void</p>
+<p style="text-indent:30px;">GetAndStoreNextKVMEvent(bool_t forever,ulong64 waitUntil)&#123;</p>
+<p style="text-indent:30px;">MSG msg；</p>
+<p style="text-indent:30px;">……</p>
+<p style="text-indent:30px;">while(GetMessage(&amp;msg,NULL,0,0))&#123;</p>
+<p style="text-indent:30px;">……</p>
+<p style="text-indent:30px;">TranslateMessage(&amp;msg);</p>
+<p style="text-indent:30px;">DispatchMessage(&amp;msg);</p>
+<p style="text-indent:30px;">if(gotEvent)&#123;</p>
+<p style="text-indent:30px;">StoreMIDPEvent(&amp;kvmEvent);</p>
+<p style="text-indent:30px;">Return;</p>
+<p style="text-indent:30px;">&#125;</p>
+<p style="text-indent:30px;">&#125;</p>
+<p style="text-indent:30px;">return;</p>
+<p style="text-indent:30px;">&#125;</p>
+<p style="text-indent:30px;">static LRESULT CALLBACK</p>
+<p style="text-indent:30px;">WndProc (HWND hwnd,UINT iMsg,WPARAM wParam,LPARAM lParam)&#123;</p>
+<p style="text-indent:30px;">……</p>
+<p style="text-indent:30px;">switch(iMsg)&#123;</p>
+<p style="text-indent:30px;">case WM_CREATE:</p>
+<p style="text-indent:30px;">……</p>
+<p style="text-indent:30px;">case WM_KEYDOWN:</p>
+<p style="text-indent:30px;">case WM_KEYUP:</p>
+<p style="text-indent:30px;">……</p>
+<p style="text-indent:30px;">&#125;</p>
+<p style="text-indent:30px;">&#125;</p>
+<p style="text-indent:30px;">MIDP在GetAndStoreNextKVMEvent中获取事件后，就完全独立地传递和处理事件消息，与平台无关，因此无需移植。<br /><img hspace="10" src="http://www.51eda.com/Article/UploadFiles/2004324224117734.gif" vspace="10" border="0" /><br /><font size="3">    </font><span>2.2 文件系统</span></p>
+<p style="text-indent:30px;">基于MIDP的JAVA应用以及MIDP本身在某些时候要求数据能够长期保存，即使在应用退出或系统掉电的情况下，数据也不能丢失。这就必须借助于MIDP的文件系统。MIDP的文件系统同样分为JAVA层（称为RMS，即Record Manage System）和本地方法层。一般情况下，文件系统的JAVA层不用移植就可以在任何平台上运行，但如果目标平台的文件系统较为特殊，例如采用数据库的记录方式保存数据，甚至根本就没有提供高效的数据存取接口，我们就必须自己实现数据存取接口。这样，JAVA层就需要跳过RMS而直接通过本地方法调用本地接口，相应的RMS的JAVA代码就可以从MIDP中删去。</p>
+<p style="text-indent:30px;">而在文件系统的本地方法层，MIDP会调用目标平台的数据存取接口来实现MIDP本身的数据存取。这些接口是平台相关的，是文件系统中需要移植的部分。这些调用被放在文件src/share/native/storage.c中，主要包括文件的打开（open）、文件的关闭（close）、文件的读写（read、write）、文件属性的获取（size、freesize等）、文件的删除（delete）、文件的定位（seek）、文件的删节（truncate）等。以下便是MIDP文件系统在Windows下的部分实现。</p>
+<p style="text-indent:30px;">文件的打开：</p>
+<p style="text-indent:30px;">int storageOpen(char**ppszError,char*pszAsciiFilename,int ioMode)&#123;</p>
+<p style="text-indent:30px;">……</p>
+<p style="text-indent:30px;">handle=open(pszAsciiFilename,flags,creationMode)；</p>
+<p style="text-indent:30px;">……</p>
+<p style="text-indent:30px;">&#125;</p>
+<p style="text-indent:30px;">文件的关闭：</p>
+<p style="text-indent:30px;">void storageClose(char**ppszError,int handle)&#123;</p>
+<p style="text-indent:30px;">……</p>
+<p style="text-indent:30px;">status=close(handle)；</p>
+<p style="text-indent:30px;">……</p>
+<p style="text-indent:30px;">&#125;</p>
+<p style="text-indent:30px;">文件的读取：</p>
+<p style="text-indent:30px;">int storageRead(char**ppszError,int handle,char*buffer,int length)</p>
+<p style="text-indent:30px;">&#123;</p>
+<p style="text-indent:30px;">……</p>
+<p style="text-indent:30px;">bytesRead=read(handle,buffer,length);</p>
+<p style="text-indent:30px;">……</p>
+<p style="text-indent:30px;">&#125;</p>
+<p style="text-indent:30px;">文件的写入：</p>
+<p style="text-indent:30px;">void storageWrite(char**ppszError,int handle,char*buffer,int length)&#123;</p>
+<p style="text-indent:30px;">……</p>
+<p style="text-indent:30px;">bytesWritten=write(handle,buffer,length);</p>
+<p style="text-indent:30px;">……</p>
+<p style="text-indent:30px;">&#125;</p>
+<p style="text-indent:30px;">还有许多其它有关文件的操作，移植时只需使用目标平台的API替换以上的Widnows调用，这里就不再逐一列举。</p>
+<p style="text-indent:30px;">2.3 用户图形化接口</p>
+<p style="text-indent:30px;">用户图形化接口包括画点、画线、作圆、作椭圆、位图拷贝等基本作图函数（可在 GRAPHICS.C中找到）；有关定时器、屏幕刷新和键盘触控笔消息等有关与用户交互的操作（可在TEXT.C中找到），它是整个MIDP移植中工作量最大，也是对上层应用的执行效率影响最大的一个部分。这是因为用户在应用中看到的各种图形和文字都是调用底层的图形函数在屏幕上作图的结果。由于屏幕要频繁刷新，图形函数也就成为应用调用最多的接口。因此，移植者必须使每一个底层作图函数与硬件设备紧密配合起来，并使用最高效的算法。</p>
+<p style="text-indent:30px;">在不同的平台上，能最大地发挥其作图功能的函数和算法不尽相，这就要求移植者作大量细致的工作，按照MIDP规范的要求逐一重新实现每一个作图函数和屏幕刷新函数。下面我们就以将画线函数和位图拷贝函数在Windows上的实现为例，简单说明移植要做的工作（键盘、触控笔是以事件消息的方式实现的，它们的移植与事件消息的移植相同）。</p>
+<p style="text-indent:30px;">Windows的画线函数接口：</p>
+<p style="text-indent:30px;">Void LCDUIdrawLine(int pixel,short*clip,void*dst,int dotted,int x1,int y1,int x2,int y2)&#123;</p>
+<p style="text-indent:30px;">……</p>
+<p style="text-indent:30px;">Polyline(hdc,pts,2);/*绘x1,y1点像素信号*/</p>
+<p style="text-indent:30px;">……</p>
+<p style="text-indent:30px;">&#125;</p>
+<p style="text-indent:30px;">Windwos的屏幕刷新函数：</p>
+<p style="text-indent:30px;">Void refreshPaintWindow(int x1,int y1,int x2,int y2)&#123;</p>
+<p style="text-indent:30px;">RECT r；</p>
+<p style="text-indent:30px;">If(x1&lt;x2)&#123;</p>
+<p style="text-indent:30px;">r.left=x1+x_offset;r.right=x2+x_offset;</p>
+<p style="text-indent:30px;">&#125;else&#123;</p>
+<p style="text-indent:30px;">r.left=x2+x_offset;r.right=x1+x_offset;</p>
+<p style="text-indent:30px;">&#125;</p>
+<p style="text-indent:30px;">if(y1&lt;y2)&#123;</p>
+<p style="text-indent:30px;">r.top=y1+y_offset;r.bottom=y2+y_offset;</p>
+<p style="text-indent:30px;">&#125;else&#123;</p>
+<p style="text-indent:30px;">r.top=y2+y_offset;r.bottom=y1+y_offset；</p>
+<p style="text-indent:30px;">&#125;</p>
+<p style="text-indent:30px;">++r.bottom;++r.right;</p>
+<p style="text-indent:30px;">InvalidateRect(hMainWindow,&amp;r,KNI_TRUE);</p>
+<p style="text-indent:30px;">&#125;</p>
+<p style="text-indent:30px;">如果目标平台对这些GUI接口函数有不同实现法，可以用这些方法替换以上的Windows系统调用，这样才能使MIDP图形化用户接口正确地工作，并充分发挥目标平台的工作效率。</p>
+<p style="text-indent:30px;">2.4 网络</p>
+<p style="text-indent:30px;">MIDP的网络功能是指基于MIDP的J2ME应用可以通过HTTP等网络协议进行下载安装，不同的MIDlet实体也可以通过它交换信息，实现资源共享。遵循HTTP协议的规定，移植者必须利用目标平台的底层网络接口重新实现网络的初始化（networkInit）、建立连接（open0）、断开连接（close0）、接收数据（read0）、获取缓冲区的剩余空间（available0）、关闭发送（shutdownOutput）。如果目标设备具有服务器功能，还要实现serversocket所有上述功能。所有上述接口都在文件socketProtocol_md.c中实现。</p>
+<p style="text-indent:30px;">Windwos中获取IP地址的实现：</p>
+<p style="text-indent:30px;">Int prim_com_sun_midp_io_j2me_socket_Protocol_getIpNumber</p>
+<p style="text-indent:30px;">(char*host)</p>
+<p style="text-indent:30px;">&#123;</p>
+<p style="text-indent:30px;">……</p>
+<p style="text-indent:30px;">hp=gethostbyname(host);</p>
+<p style="text-indent:30px;">……</p>
+<p style="text-indent:30px;">&#125;</p>
+<p style="text-indent:30px;">如果目标平台还需要其它网络协议（datagram、comm），其移植过程与Socket的移植基本相同。</p>
+<p style="text-indent:30px;">2.5 应用管理系统（AMS）</p>
+<p style="text-indent:30px;">MIDP的应用管理系统(application management system)负责管理当前设备中安装的J2ME应用，其功能包括MIDlet的加载、安装、显示、更新和删除。AMS从main.c中的函数main ()开始执行，根据其输入初始化一些系统参数，包括系统路径（classJ2ME MIDP 移植 平台无关本地代码）、堆空间大小（heapsize）、命令行（command line）等，然后就启动KVM，而KVM就会从AMS的JAVA界面main.java开始解释执行java代码。AMS的所有管理功能都是用JAVA 语言实现的，因此AMS的实现是与平台无关的。但不同的平台可能有不同的系统参数和格式，对AMS的界面网络也可能有不同的要求。所以，移植者有可能要修改main.c中解析系统参数的部分，保证AMS能正确解析目标平台的所有参数；同时修改AMS的JAVA层，使其界面网络满足用户的需求。</p>
+<p style="text-indent:30px;">2.6 多媒体</p>
+<p style="text-indent:30px;">MIDP2.0较MIDP1.0最大的改变就是在MIDP2.0中向应用提供了音频接口（Audio API）的支持。音频接口是移动设备媒体接口MMAPI（Mobile Media API）的一部分。音频的播放过程为5个部分（unrealized、realized、prefetched、started、closed），同时它有自己的音频播放事件的传道和处理过程。MIDP音频播放部分所要做的移植工作就主要集中在声音播放接口，事件的处理方式和兼容不同的音频文件格式上。</p>
+<p style="text-indent:30px;">播放接口的移植：不同的目标平台，提供的音频系统API是不同的，有的系统甚至根本没有提供播放音频的API。这时，移植者就要根据目标平台的实现情况替换或自己实现音频的播放接口。</p>
+<p style="text-indent:30px;">Windows的音频播放接口（win32/native/MMATONE.C）：</p>
+<p style="text-indent:30px;">Java_javax_microedition_media_Manager_nPlayTone(KNITRAPS)</p>
+<p style="text-indent:30px;">&#123;</p>
+<p style="text-indent:30px;">……</p>
+<p style="text-indent:30px;">chn1=getMidiChnl();</p>
+<p style="text-indent:30px;">if(chnl==-1)&#123;</p>
+<p style="text-indent:30px;">KNI_ReturnInt(0)；</p>
+<p style="text-indent:30px;">&#125;</p>
+<p style="text-indent:30px;">tones[chn].msg=((note&amp;0xff)&lt;&lt;8)|0x00000090|(chnl&amp;0xf);</p>
+<p style="text-indent:30px;">msg=((vol&amp;0xff)&lt;&lt;16)|((note&amp;0xff)&lt;&lt;8)|0x90|(chnl &amp;0xf);</p>
+<p style="text-indent:30px;">midiOutShortMsg(midiOut,msg);</p>
+<p style="text-indent:30px;">timerID=timeSetEvent(dur,TIMERES,(LPTIME CALLBACK)timeToneProc,(DWORD)chnl,TIME_ONESHOT);</p>
+<p style="text-indent:30px;">tones[chnl].timerID=timerID;</p>
+<p style="text-indent:30px;">……</p>
+<p style="text-indent:30px;">&#125;</p>
+<p style="text-indent:30px;">事件传递的移植：MIDP中音频播放结束的事件（EOM）是专门通过系统的消息机制传递，而不是通过MIDP的事件传递，因此也需要移植：</p>
+<p style="text-indent:30px;">Windows---OM的传递（win32/native/MMAEVT.C）:void injectNativeEvent(int pID,int curMTime)&#123;</p>
+<p style="text-indent:30px;">PostMessage(hMain Window,WM_APP,(WPARAM)(pID),(LPARAM)(curMTime));</p>
+<p style="text-indent:30px;">return;</p>
+<p style="text-indent:30px;">&#125;</p>
+<p style="text-indent:0;"><b>3 总结</b></p>
+<p style="text-indent:30px;">综上所述，MID2.0的移植要以两个方面为出发点：①兼容性。移植后的MIDP实现必须能够在目标平台上正常运行，所有与目标平台不兼容的调用都必须替换为能完成相同功能且兼容的目标平台的系统调用或过程。②高效性。移植后的MIDP实现必须能充分发挥目标平台的效率和特性，用最小的代价完成MIDP的功能。另外，MIDP的移植还要分满足最终用户的个性化要求，为它们设计出丰富多彩的界面网络。 </p>
+</div>
+</div>

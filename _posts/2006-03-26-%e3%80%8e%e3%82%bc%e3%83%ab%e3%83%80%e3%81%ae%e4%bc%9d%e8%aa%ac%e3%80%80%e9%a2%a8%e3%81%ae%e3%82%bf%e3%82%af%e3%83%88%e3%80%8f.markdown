@@ -1,0 +1,28 @@
+---
+layout: post
+status: publish
+published: true
+title: 『ゼルダの伝説　風のタクト』
+author_url: http://caofei.org
+wordpress_id: 33
+wordpress_url: http://caofei.wordpress.com/2006/03/26/%e3%80%8e%e3%82%bc%e3%83%ab%e3%83%80%e3%81%ae%e4%bc%9d%e8%aa%ac%e3%80%80%e9%a2%a8%e3%81%ae%e3%82%bf%e3%82%af%e3%83%88%e3%80%8f
+date: '2006-03-26 02:47:04 +0800'
+date_gmt: '2006-03-25 18:47:04 +0800'
+categories:
+- 游戏
+tags: []
+comments: []
+---
+<div id="msgcns!66CD003054696B87!796" class="bvMsg">
+<div>
+<table cellspacing="0" cellpadding="0" width="295" border="0">
+<tbody>
+<tr>
+<td valign="top" align="middle" width="60"><img src="http://tk.files.storage.msn.com/x1pgoHCJCnTYmFvvFNyBEbRikbU7HWuBCEm-6BJEEOL6kfS5HJMIf3sFKPqQvZtFG6yIh2V1IYpap7HZaXMDF12Z0ZzOk0vO1eHnaeQXgBOFRBXytJfBxRpPv2ZfyVz2uQB" /><a href="http://spaces.msn.com/gzlj/index.html"></a></td>
+<td valign="bottom" width="235"><b><a href="http://spaces.msn.com/gzlj/index.html"><u><font color="#0000ff">ゼルダの伝説 風のタクト</font></u></a></b><br /><u><font color="#0000ff"><img src="http://spaces.msn.com/blank.gif" border="0" /><br /></font></u><font size="2">発売日：2002年12月13日<br />希望小売価格：6,800円</font></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div>今天（2006年3月25日）980日元入手，特此纪念。哈哈</div>
+</div>

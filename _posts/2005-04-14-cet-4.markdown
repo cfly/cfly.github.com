@@ -1,0 +1,41 @@
+---
+layout: post
+status: publish
+published: true
+title: cet-4
+author_url: http://caofei.org
+wordpress_id: 90
+wordpress_url: http://caofei.wordpress.com/2005/04/14/cet-4
+date: '2005-04-14 12:24:40 +0800'
+date_gmt: '2005-04-14 04:24:40 +0800'
+categories:
+- English
+tags: []
+comments:
+- id: 4
+  author: Unknown
+  author_email: ''
+  author_url: ''
+  date: '2005-04-14 15:46:47 +0800'
+  date_gmt: '2005-04-14 07:46:47 +0800'
+  content: 小时不努力，长大才伤悲····
+- id: 76
+  author: Jaylon
+  author_email: theguys@comicbookpage.com
+  author_url: http://www.google.com/
+  date: '2012-09-16 11:51:38 +0800'
+  date_gmt: '2012-09-16 03:51:38 +0800'
+  content: That insight's just what I've been lokoing for. Thanks!
+- id: 83
+  author: Felipe
+  author_email: jennifer_d24@hotmail.com
+  author_url: http://www.facebook.com/profile.php?id=100003406641664
+  date: '2012-09-17 07:43:43 +0800'
+  date_gmt: '2012-09-16 23:43:43 +0800'
+  content: I don't even know what to say, this made thnigs so much easier!
+---
+<div id="msgcns!66CD003054696B87!251" class="bvMsg">
+<p>英语是我今生的痛~</p>
+<p>今天报了cet-4，不知道能不能过。</p>
+<p>i'm working on it.</p>
+</div>

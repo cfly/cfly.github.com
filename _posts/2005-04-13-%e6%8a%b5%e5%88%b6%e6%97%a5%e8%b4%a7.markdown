@@ -1,0 +1,18 @@
+---
+layout: post
+status: publish
+published: true
+title: 抵制日货
+wordpress_id: 91
+wordpress_url: http://caofei.wordpress.com/2005/04/13/%e6%8a%b5%e5%88%b6%e6%97%a5%e8%b4%a7
+date: '2005-04-13 00:32:51 +0800'
+date_gmt: '2005-04-12 16:32:51 +0800'
+categories:
+- 新闻与政治
+tags: []
+comments: []
+---
+<div id="msgcns!66CD003054696B87!249" class="bvMsg">
+<p>最近抵制日货，我印象中日货都是很贵的，也许是因为我是个穷人。我从小玩游戏长大的，至少上大学前玩的都是日本的游戏，我最喜欢任天堂NINTENDO了，非常佩服宫本茂。抵制日货了，不玩日本游戏了，改玩WOW了，4月29日中国公测。反思一下，今天抵制日货，明天抵制韩货，后天抵制米国货，大后天……也不能老抵制啊，期待国货，中国货—Made In China。</p>
+<p>ps:真怀疑日本领导人的智商了，不知道是不是可以称为鼠目寸光</p>
+</div>

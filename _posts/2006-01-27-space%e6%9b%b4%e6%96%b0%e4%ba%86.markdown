@@ -1,0 +1,50 @@
+---
+layout: post
+status: publish
+published: true
+title: space更新了
+author_url: http://caofei.org
+wordpress_id: 41
+wordpress_url: http://caofei.wordpress.com/2006/01/27/space%e6%9b%b4%e6%96%b0%e4%ba%86
+date: '2006-01-27 12:05:16 +0800'
+date_gmt: '2006-01-27 04:05:16 +0800'
+categories:
+- 未分类
+tags: []
+comments:
+- id: 9
+  author: Ryoga
+  author_email: ''
+  author_url: ''
+  date: '2006-02-05 19:34:22 +0800'
+  date_gmt: '2006-02-05 11:34:22 +0800'
+  content: |-
+    哈哈，没有几天啦～
+    回来还能享受美食的乐趣呢。
+    记得联系我，请你吃饭^^
+- id: 72
+  author: John
+  author_email: info@tippingpt.com
+  author_url: http://www.facebook.com/profile.php?id=100003406290814
+  date: '2012-07-15 12:01:00 +0800'
+  date_gmt: '2012-07-15 04:01:00 +0800'
+  content: Halllejuah! I needed this-you're my savior.
+- id: 5435
+  author: Christopher
+  author_email: 64hik8hif@outlook.com
+  author_url: http://jgyuIHR2
+  date: '2014-07-31 08:12:33 +0800'
+  date_gmt: '2014-07-31 00:12:33 +0800'
+  content: Weeeee, what a quick and easy sonituol.
+- id: 5535
+  author: Asami
+  author_email: hq3q1edw2o7@yahoo.com
+  author_url: http://BehGQfAH
+  date: '2014-08-07 23:01:43 +0800'
+  date_gmt: '2014-08-07 15:01:43 +0800'
+  content: I think you've just captured the answer pelcfetry
+---
+<div id="msgcns!66CD003054696B87!545" class="bvMsg">
+<div>听说space更新了，上来看看。祝大家吃好喝好玩好。</div>
+<div>bwt:8号就回国了，回去感受下载的乐趣</div>
+</div>

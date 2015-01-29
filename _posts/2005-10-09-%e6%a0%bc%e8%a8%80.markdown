@@ -1,0 +1,60 @@
+---
+layout: post
+status: publish
+published: true
+title: 格言
+author_url: http://caofei.org
+wordpress_id: 51
+wordpress_url: http://caofei.wordpress.com/2005/10/09/%e6%a0%bc%e8%a8%80
+date: '2005-10-09 16:58:51 +0800'
+date_gmt: '2005-10-09 08:58:51 +0800'
+categories:
+- 未分类
+tags: []
+comments:
+- id: 14
+  author: rara
+  author_email: ''
+  author_url: ''
+  date: '2005-10-13 22:34:22 +0800'
+  date_gmt: '2005-10-13 14:34:22 +0800'
+  content: 做了连接 来和你打个招呼！
+- id: 15
+  author: Unknown
+  author_email: ''
+  author_url: ''
+  date: '2005-10-09 17:16:00 +0800'
+  date_gmt: '2005-10-09 09:16:00 +0800'
+  content: 来看看有没有更新。哈哈。。。。。
+- id: 65
+  author: Sudhir
+  author_email: ubanus@users.sourceforge.net
+  author_url: http://www.facebook.com/profile.php?id=100003406295638
+  date: '2012-07-15 07:41:04 +0800'
+  date_gmt: '2012-07-14 23:41:04 +0800'
+  content: I could watch Schindler's List and still be happy after radieng this.
+- id: 73
+  author: Morgan
+  author_email: mirandaallgood@yahoo.com
+  author_url: http://www.facebook.com/profile.php?id=100003406304053
+  date: '2012-07-15 12:43:13 +0800'
+  date_gmt: '2012-07-15 04:43:13 +0800'
+  content: I love reading these articles because they're short but infromtaive.
+- id: 5468
+  author: Amon
+  author_email: 4dr9unsx4mk@gmail.com
+  author_url: http://gtoh94QzEPX
+  date: '2014-07-31 23:44:18 +0800'
+  date_gmt: '2014-07-31 15:44:18 +0800'
+  content: No more s***. All posts of this qutialy from now on
+- id: 5548
+  author: Laura
+  author_email: hysupqzq1rm@yahoo.com
+  author_url: http://D0XJCkgqd
+  date: '2014-08-08 04:10:37 +0800'
+  date_gmt: '2014-08-07 20:10:37 +0800'
+  content: That's an inventive answer to an innerestitg question
+---
+<div id="msgcns!66CD003054696B87!461" class="bvMsg">
+<div></div>
+<p>  学会接受的同时也要学会拒绝，给别人也给自己更多的选择机会与权利。<br />  人生应该有梦，梦想代表今天和将来。我们应该趁年轻时多做几个梦，给美丽未来增添几许勾人的诱惑。<br />  人生的抉择就在一念之间，那一刻变得如此重要。不作后悔的选择，作了选择就不后悔。</div>

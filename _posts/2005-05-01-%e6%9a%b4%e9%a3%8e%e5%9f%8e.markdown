@@ -1,0 +1,36 @@
+---
+layout: post
+status: publish
+published: true
+title: 暴风城
+author_url: http://caofei.org
+wordpress_id: 80
+wordpress_url: http://caofei.wordpress.com/2005/05/01/%e6%9a%b4%e9%a3%8e%e5%9f%8e
+date: '2005-05-01 03:56:24 +0800'
+date_gmt: '2005-04-30 19:56:24 +0800'
+categories:
+- World of warcraft
+tags: []
+comments: []
+---
+<div id="msgcns!66CD003054696B87!313" class="bvMsg">
+<p>前两天玩的太投入了，没来得及加进来，到了暴风城的感觉就像到了大城市，里面什么都有，不错。</p>
+<p>我也骑狮鹫了^_^。</p>
+<p>人死了会看到幻想......</p>
+</div>
+<table cellspacing="0" border="0">
+<tr>
+<td></td>
+</tr>
+<tr>
+<td valign="top"><a href="http://byfiles.storage.live.com/y1pdTky7M0zmCnmVSgz72LqP1KSeAoJWZ12y-VF9DsBlLEqb9JuFbsu2yH7vL9bupdkE5gTr38Qsig" target="_blank" rel="WLPP;url=http://byfiles.storage.live.com/y1pdTky7M0zmCnmVSgz72LqP1KSeAoJWZ12y-VF9DsBlLEqb9JuFbsu2yH7vL9bupdkE5gTr38Qsig;cnsid=cns&#033;66CD003054696B87&#033;314"><img src="http://byfiles.storage.live.com/y1pdTky7M0zmCnmVSgz72LqP1KSeAoJWZ12X2vGKergH8ylrQIducPJOrq67NkQTUlnW60tvnlYWPo" border="0" /></a></td>
+<td width="15"></td>
+<td valign="top"><a href="http://byfiles.storage.live.com/y1pztGB79L3iHgGajTSwSHL2--hdHq-27_twh5Dgjad2URUkmoXmD2hEXHS7WU8x0TIyppYP4oS2-A" target='_blank' rel="WLPP;url=http://byfiles.storage.live.com/y1pztGB79L3iHgGajTSwSHL2--hdHq-27_twh5Dgjad2URUkmoXmD2hEXHS7WU8x0TIyppYP4oS2-A;cnsid=cns&#033;66CD003054696B87&#033;315"><img src="http://byfiles.storage.live.com/y1pztGB79L3iHgGajTSwSHL2--hdHq-27_td0mzFNQn1O3DGofLq2mrsCQ5diDtQOSkEYFyGzl_2As" border="0" /></a></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td valign="top"><a href="http://byfiles.storage.live.com/y1p1V4fFyhWSrx_RvLyvXlMPS03bGoxP5RfU-qflh6txbz3oMk1l1GpVjzapvtcqm5EYj6-IRPxjlo" target="_blank" rel="WLPP;url=http://byfiles.storage.live.com/y1p1V4fFyhWSrx_RvLyvXlMPS03bGoxP5RfU-qflh6txbz3oMk1l1GpVjzapvtcqm5EYj6-IRPxjlo;cnsid=cns&#033;66CD003054696B87&#033;316"><img src="http://byfiles.storage.live.com/y1p1V4fFyhWSrx_RvLyvXlMPS03bGoxP5RfxvjUkFDhyL0o7z7AWDz5zeNaiq_zSTy2p9CYoYSa0FE" border="0" /></a></td>
+</tr>
+</table>

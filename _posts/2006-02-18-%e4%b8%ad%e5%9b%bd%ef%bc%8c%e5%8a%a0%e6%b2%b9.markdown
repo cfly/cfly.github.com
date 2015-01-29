@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: 中国，加油
+author_url: http://caofei.org
+wordpress_id: 40
+wordpress_url: http://caofei.wordpress.com/2006/02/18/%e4%b8%ad%e5%9b%bd%ef%bc%8c%e5%8a%a0%e6%b2%b9
+date: '2006-02-18 23:01:23 +0800'
+date_gmt: '2006-02-18 15:01:23 +0800'
+categories:
+- 杂谈
+tags: []
+comments: []
+---
+<div id="msgcns!66CD003054696B87!637" class="bvMsg">
+<div>又要离开祖国了，感觉挺别扭的，说不上高兴，也说不上不高兴。隐痛...想起了小学史学的诗，欲穷千里目，更上一层楼。不识庐山真面目，只缘身在此山中。</div>
+<div>我为国家做了多少贡献呢？我应该承担多少社会责任呢？我自己也不知道。</div>
+<div>希望中国能快快强大起来，成为世界第一的国家。</div>
+</div>

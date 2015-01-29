@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: 狗狗喝水
+author_url: http://caofei.org
+wordpress_id: 84
+wordpress_url: http://caofei.wordpress.com/2005/04/19/%e7%8b%97%e7%8b%97%e5%96%9d%e6%b0%b4
+date: '2005-04-19 16:04:04 +0800'
+date_gmt: '2005-04-19 08:04:04 +0800'
+categories:
+- 娱乐
+tags: []
+comments: []
+---
+<div id="msgcns!66CD003054696B87!290" class="bvMsg">
+</div>
+<table cellspacing="0" border="0">
+<tr>
+<td></td>
+</tr>
+<tr>
+<td valign="top"><a href="http://byfiles.storage.live.com/y1phVWA2iGti7nPt0wuMm6CyESXaNdGuaEyXXY9g7Kb8OsQ-4VOzwph_eps1P6wLIS6BmIuzpzCemQ" target="_blank" rel="WLPP;url=http://byfiles.storage.live.com/y1phVWA2iGti7nPt0wuMm6CyESXaNdGuaEyXXY9g7Kb8OsQ-4VOzwph_eps1P6wLIS6BmIuzpzCemQ;cnsid=cns&#033;66CD003054696B87&#033;291"><img src="http://byfiles.storage.live.com/y1phVWA2iGti7nPt0wuMm6CyESXaNdGuaEy1vE2DUz4R3ImhtqPBksbedFW_Oc13AxAdWLiHgzqFz4" border="0" /></a></td>
+</tr>
+</table>

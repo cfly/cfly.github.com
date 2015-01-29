@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: 今天买的游戏
+author_url: http://caofei.org
+wordpress_id: 32
+wordpress_url: http://caofei.wordpress.com/2006/04/10/%e4%bb%8a%e5%a4%a9%e4%b9%b0%e7%9a%84%e6%b8%b8%e6%88%8f
+date: '2006-04-10 00:14:10 +0800'
+date_gmt: '2006-04-09 16:14:10 +0800'
+categories:
+- 游戏
+tags: []
+comments: []
+---
+<div id="msgcns!66CD003054696B87!824" class="bvMsg">
+<div>
+<div>纪念</div>
+<div>生化危机</div>
+<div>生化危机0</div>
+<div>zelda4只剑</div>
+<div>zelda时之笛&amp;里时之笛 for ngc</div>
+<div>Metal Gare AC!D</div>
+</div>
+</div>

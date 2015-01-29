@@ -1,0 +1,18 @@
+---
+layout: post
+status: publish
+published: true
+title: 豆瓣
+author_url: http://caofei.org
+wordpress_id: 29
+wordpress_url: http://caofei.wordpress.com/2006/05/18/%e8%b1%86%e7%93%a3
+date: '2006-05-18 04:22:20 +0800'
+date_gmt: '2006-05-17 20:22:20 +0800'
+categories:
+- 计算机与 Internet
+tags: []
+comments: []
+---
+<div id="msgcns!66CD003054696B87!831" class="bvMsg">
+<div>豆瓣，很久以前就听说过的一个......不知道叫什么，网站？社区？还是？？？<br />管他呢，今天在网上搜罗spring的资料，找着找着就找到豆瓣上来了，注册很简单，在上面转了一圈感觉不错。<br />他用的什么技术我并不关心，我佩服他的创意，他给我的感觉就是把客户“物以类聚，人以群分 ”。<br />想起了 爱因斯坦 那位老人家说过的话 “人的知识是有限的，而一个人的想象力是无穷的”（大概是这个意思）<br />我的想象力都TMD那儿去了？</div>
+</div>

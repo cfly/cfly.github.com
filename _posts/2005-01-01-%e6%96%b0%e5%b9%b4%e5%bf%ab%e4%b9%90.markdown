@@ -1,0 +1,18 @@
+---
+layout: post
+status: publish
+published: true
+title: 新年快乐
+author_url: http://caofei.org
+wordpress_id: 92
+wordpress_url: http://caofei.wordpress.com/2005/01/01/%e6%96%b0%e5%b9%b4%e5%bf%ab%e4%b9%90
+date: '2005-01-01 13:29:35 +0800'
+date_gmt: '2005-01-01 05:29:35 +0800'
+categories:
+- 未分类
+tags: []
+comments: []
+---
+<div id="msgcns!66CD003054696B87!144" class="bvMsg">
+<p>新年新气象</p>
+</div>

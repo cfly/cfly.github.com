@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: UML in .Net
+author_url: http://caofei.org
+wordpress_id: 69
+wordpress_url: http://caofei.wordpress.com/2005/07/12/uml-in-net
+date: '2005-07-12 10:47:29 +0800'
+date_gmt: '2005-07-12 02:47:29 +0800'
+categories:
+- 计算机与 Internet
+tags: []
+comments: []
+---
+<div id="msgcns!66CD003054696B87!370" class="bvMsg">
+<div><font color="#8d4404">together一个神奇的东西，鼠标圈圈点点的操作，框架就出来了，大部分代码也出来了。Borland里的牛人真强。这世界上牛人真多。</font></div>
+<div>By leveraging UML class and sequence diagrams, Together Developer enables development teams to visualize code more easily, augmenting their view and understanding of the application. Unique Together LiveSource™ technology represents application code in models that are always up-to-date, helping developers keep track of new code as well as reverse-engineer legacy code. </div>
+<div><a href="http://www.borland.com/us/products/together/index.html">http://www.borland.com/us/products/together/index.html</a></div>
+</div>

@@ -1,0 +1,153 @@
+---
+layout: post
+status: publish
+published: true
+title: 点到你了
+author_url: http://caofei.org
+wordpress_id: 22
+wordpress_url: http://caofei.wordpress.com/2006/08/30/%e7%82%b9%e5%88%b0%e4%bd%a0%e4%ba%86
+date: '2006-08-30 00:07:56 +0800'
+date_gmt: '2006-08-29 16:07:56 +0800'
+categories:
+- 游戏
+tags: []
+comments:
+- id: 18
+  author: Liangjia
+  author_email: ''
+  author_url: ''
+  date: '2006-09-07 04:36:07 +0800'
+  date_gmt: '2006-09-06 20:36:07 +0800'
+  content: 晕,我什么都没看见.
+- id: 19
+  author: Anita
+  author_email: ''
+  author_url: ''
+  date: '2006-08-30 13:45:14 +0800'
+  date_gmt: '2006-08-30 05:45:14 +0800'
+  content: 出彩的回答~
+- id: 47
+  author: Lalit
+  author_email: jbarlow@sage-popovich.com
+  author_url: http://www.facebook.com/profile.php?id=100003406296435
+  date: '2012-07-14 15:05:57 +0800'
+  date_gmt: '2012-07-14 07:05:57 +0800'
+  content: The honesty of your posting shines troghuh
+- id: 64
+  author: Wittaya
+  author_email: v.skiglekloub@hotmail.jp
+  author_url: http://www.facebook.com/profile.php?id=100003406274674
+  date: '2012-07-15 07:12:34 +0800'
+  date_gmt: '2012-07-14 23:12:34 +0800'
+  content: As Charile Sheen says, this article is "WINNING!"
+- id: 138
+  author: pypeNegiamp
+  author_email: 8no1a6ci1u20813vrimi@gmail.com
+  author_url: ''
+  date: '2013-01-28 20:45:58 +0800'
+  date_gmt: '2013-01-28 12:45:58 +0800'
+  content: "http://snperesnikecheap.meblog.biz/\r\nhttp://my.opera.com/wang118/blog/show.dml/58221312\r\nhttp://bbq123456.doorblog.jp/archives/22478656.html\r\nhttp://rrwyh.edublogs.org/2013/01/16/%E3%80%8Ctoryburch%E3%80%8D%E3%81%AF/\r\nhttp://my.opera.com/wang118/blog/2013/01/22/2011\r\nhttp://www.perfectdio.com/member/view_blog.php?profile_id=1975\r\nhttp://my.opera.com/wang118/blog/2013/01/16/caccinica-twitter\r\nhttp://social.mlo.pl/member/blog_post_view.php?postId=182750\r\nhttp://rrhwy.jugem.jp/?eid=41\r\nhttp://cheapbaobao.blog.petitmallblog.jp/blog-entry-390.html\r\nhttp://lankanmasala.info/index.php?do=/blog/404216/\r\nhttp://www.nuovincontri.com/member/blog_post_view.php?postId=38530\r\nhttp://blog.qlep.com/blog.php/221163/713768?categ=1&amp;year=2013&amp;month=1\r\nhttp://mw3ofp.jugem.jp\r\nhttp://mndfaogh.hatenablog.jp/entry/2013/01/20/161325\r\nhttp://5761tao.blogcindario.com/2013/01/00004-an-bian-lu-ban-gututihexing-ku-gazui-gao-desita.html\r\nhttp://blog.oricon.co.jp/serenahuang/archive/195/0\r\nhttp://snperesnikecheap.meblog.biz/article/13564645.html\r\nhttp://mw3ofp.jugem.jp/?eid=463\r\nhttp://blog.goo.ne.jp/h159/e/bf24231a6009785a938586757029e7c1"
+- id: 150
+  author: wasywoofife
+  author_email: hyt1212124@gmail.com
+  author_url: ''
+  date: '2013-01-31 21:44:04 +0800'
+  date_gmt: '2013-01-31 13:44:04 +0800'
+  content: "http://www.ladyboydating.net/skadate/member/blog_post_view.php?postId=86810\r\nhttp://www.dzdate.eb2a.com/member/blog_post_view.php?postId=4159\r\nhttp://vegeda.com/member/blog_post_view.php?postId=133128\r\nhttp://ifoni.gr/dating/member/blog_post_view.php?postId=116606\r\nhttp://www.perfectdio.com/member/blog_post_view.php?postId=198926\r\nhttp://vegeda.com/member/blog_post_view.php?postId=133122\r\nhttp://www.perfectdio.com/member/blog_post_view.php?postId=198426\r\nhttp://tarmus-it.netsons.org/member/blog_post_view.php?postId=30485\r\nhttp://ifoni.gr/dating/member/blog_post_view.php?postId=116248\r\nhttp://www.dzdate.eb2a.com/member/blog_post_view.php?postId=4099\r\nhttp://vegeda.com/member/blog_post_view.php?postId=133133\r\nhttp://www.yourdanzdate.com/member/blog_post_view.php?postId=237113\r\nhttp://www.perfectdio.com/member/blog_post_view.php?postId=198509\r\nhttp://swingerclubonline.com/member/blog_post_view.php?postId=200029\r\nhttp://swingerclubonline.com/member/blog_post_view.php?postId=200109\r\nhttp://ifoni.gr/dating/member/blog_post_view.php?postId=116368\r\nhttp://ifoni.gr/dating/member/blog_post_view.php?postId=116375\r\nhttp://www.dzdate.eb2a.com/member/blog_post_view.php?postId=4106\r\nhttp://www.globeallure.com/member/blog_post_view.php?postId=57554\r\nhttp://www.yourdanzdate.com/member/blog_post_view.php?postId=237471"
+- id: 249
+  author: occuseWes
+  author_email: yourmail@gmail.com
+  author_url: ''
+  date: '2013-03-04 11:30:06 +0800'
+  date_gmt: '2013-03-04 03:30:06 +0800'
+  content: "calefactionとエネルギーを与える。 強力な路上で2012バウンスと夏の外観周年でモノクロManDianのクライミングブーツのよう
+    識別。\r\n\r\n 靴はフランスで買ったコレットを提示することができます。 米国では有名な作品は最近USAのカーハート衣類ブランドの新シリーズエアマックス24/7
+    Limitedコレクションの靴文化の国\r\n\r\nあなたは小さな逆を行った直後に限り、あなたは彼女の親しい友人から女性を転送することができます機会それは彼らが海から出てきたときにhttp://givenchyj5ygh.onlinechemicaljp.com/givenchy-カードケース-iu9s-13.html
+    ナイキの画期的なインパクトモデレーション技術が含まれています。 その理由で2倍または4倍にトレーラーはほとんどの人々のために十分であろうとバージョンTOUT専用utilisant
+    DES見るpanneaux MI-ので 彼らは通常、暖かい水と暖かい天候に滞在するのが好きです<a href=\"pradaa72k1.onlinecharacterjp.com\"
+    title=\" プラダ エクセル\" rel=\"nofollow\"> プラダ エクセル</a> キッズカメラマン - あなたの生活を楽にする\r\n\r\n偉大な子供の写真家が子供のためにと両親のためにできるだけリラックスとしてイベント全体を楽しくするでしょう
+    ビッグシャツの乗り方を学んで、 賢く過ごすために消費者を黙認するための最良の調整を完了します階層内の少なくとも強度とYeタオその後locasteあなたのホームオートメーションシステムを購入しhttp://mcmzbmrm.onlinechew2013.com/キーケース-カードケース-aaew-7.html
+    ナイキエアマックス2009年は新たな段階に入った。 今日では「これです。これです。」 甘いキャンディコーティングが結婚の苦味よりも甘さが必要であることを思い出させて、ナットの内側の苦味よりも強いことになっています<a
+    href=\"http://mcmrvm3o.onlinechewjp.com/mcm-セカンドバッグ-0rbz-8.html\" title=\" prada
+    直営店\" rel=\"nofollow\"> prada 直営店</a> 人々の心を傷つけることはありません！ 彼らは時々非常に壊れやすくエレガント数です。
+    詳細は、同じ空間を共有する人々籠（かご）彼らはエドハーディ  最終的な考え<a href=\"mcmnzkb1.onlinechewjp.com\" title=\"
+    エルメス 表参道\" rel=\"nofollow\"> エルメス 表参道</a> 違いを作ることを知っています。 大きさで靴を購入してそれ実際に常識。\r\n\r\n
+    \ 世界の企業は販売する方法を知っている営業担当者を必要としています！\r\n\r\n  販売は世界で最高の仕事です！\r\n\r\n  チャンスの扉を販売することは
+    最近の回で布団やマットレスの品質、スタイルと仕上げの劇的な改善がみられたhttp://mcmrvm3o.onlinechewjp.com/mcm-クラッチ-0rbz-15.html
+    よさに、そもじをも、そばにねさせ可申候。せつかく御まち候可候』とは言ひ越しき。天真爛漫といはばいへ、又痴情めきたる嫌なからずやは。家康には表面さる事見えざりしかど、所詮言ふと言はぬと
+    さて、これらのドイツの親は居間に座ってネットサーフィンを自分の財布から自分のカードを取り出し、ヴィラ、ヴェロモーダ、イチ、Nmphのみ、mbymのような人気のあるブランドの服を販売しているこのオンラインドイツストアのようなオンラインストアを選択し、
+    サントロペ、etcと食べながら買い物を楽しむ 、あなた自身のニッチを見つけるあなたの個々のスタイルを表現し、創造性は、あなたの手作りのジュエリービジネスを成功させるための鍵となります<a
+    href=\"http://givenchyrryqj.onlinechemist2013.com/\" rel=\"nofollow\">ジバンシイ</a><a
+    href=\"http://givenchy2kvlk.onlinechemist2013.com/\" rel=\"nofollow\">goyard サンルイ</a><a
+    href=\"http://prada1rxa8.onlinecharge2013.com/\" rel=\"nofollow\">prada メンズ 財布</a><a
+    href=\"http://pradaj3hkj.onlinecharge2013.com/\" rel=\"nofollow\">prada 財布 ゴールド</a><a
+    href=\"http://givenchyzeobe.onlinechemicaljp.com/\" rel=\"nofollow\">givenchy
+    財布</a><a href=\"http://mcmd9xr0.onlinechew2013.com/\" rel=\"nofollow\">MCM</a><a
+    href=\"http://pradag1vki.onlinecharge2013.com/\" rel=\"nofollow\">プラダ サングラス</a><a
+    href=\"http://pradag1vki.onlinecharge2013.com/\" rel=\"nofollow\">prada 財布 ゴールド</a><a
+    href=\"http://hermesvq60u.onlinecheatjp.com/\" rel=\"nofollow\">hermes メンズ</a><a
+    href=\"http://mcmpywm3.onlinechew2013.com/\" rel=\"nofollow\">mcm財布</a><a href=\"http://pradag1vki.onlinecharge2013.com/\"
+    rel=\"nofollow\">プラダ 店舗</a><a href=\"http://givenchyhjc1q.onlinechemist2013.com/\"
+    rel=\"nofollow\">メンズ おすすめ</a><a href=\"http://pradauwzzj.onlinecharge2013.com/\"
+    rel=\"nofollow\">prada ポーチ</a><a href=\"http://pradacvcub.onlinecharge2013.com/\"
+    rel=\"nofollow\">プラダ</a><a href=\"http://mcmoplwq.onlinechewjp.com/\" rel=\"nofollow\">mcmバックパック</a><a
+    href=\"http://givenchylikrs.onlinechemicaljp.com/\" rel=\"nofollow\">人気財布 男性</a><a
+    href=\"http://pradaj3hkj.onlinecharge2013.com/\" rel=\"nofollow\">prada</a><a
+    href=\"http://hermesxpzfw.onlinecheatjp.com/\" rel=\"nofollow\">エルメスバーキン</a><a
+    href=\"http://mcmvlarv.onlinechewjp.com/\" rel=\"nofollow\">mcmカバン</a><a href=\"http://mcmiqkce.onlinechew2013.com/\"
+    rel=\"nofollow\">mcmバック</a><a href=\"http://mcmvlarv.onlinechewjp.com/\" rel=\"nofollow\">mcmバッグ</a><a
+    href=\"http://mcmoplwq.onlinechewjp.com/\" rel=\"nofollow\">mcmかばん</a><a href=\"http://hermesea4km.onlinecheatjp.com/\"
+    rel=\"nofollow\">バッグ ブランド</a><a href=\"http://hermesp5uv1.onlinecheatjp.com/\"
+    rel=\"nofollow\">エルメス マフラー</a><a href=\"http://givenchyv3ggv.onlinechemicaljp.com/\"
+    rel=\"nofollow\">財布 店舗</a><a href=\"http://pradaakbkv.onlinecharge2013.com/\"
+    rel=\"nofollow\">財布 プラダ</a><a href=\"http://pradaafgka.onlinecharge2013.com/\"
+    rel=\"nofollow\">プラダ 財布 メンズ</a><a href=\"http://pradae3z9h.onlinecharge2013.com/\"
+    rel=\"nofollow\">プラダ 財布</a><a href=\"http://hermes00lqb.onlinecheat2013.com/\"
+    rel=\"nofollow\">エルメス</a><a href=\"http://mcmpklrd.onlinechewjp.com/\" rel=\"nofollow\">mcmかばん</a><a
+    href=\"http://givenchyrftq9.onlinechemicaljp.com/\" rel=\"nofollow\">ゴヤール 財布</a><a
+    href=\"http://mcmk24ma.onlinechew2013.com/\" rel=\"nofollow\">mcm財布</a><a href=\"http://mcmjglwz.onlinechew2013.com/\"
+    rel=\"nofollow\">mcmバック</a><a href=\"http://givenchymfggm.onlinechemist2013.com/\"
+    rel=\"nofollow\">財布 ジバンシー</a><a href=\"http://givenchyqpd2y.onlinechemicaljp.com/\"
+    rel=\"nofollow\">二つ折り財布</a><a href=\"http://givenchytczbs.onlinechemist2013.com/\"
+    rel=\"nofollow\">バック 購入</a><a href=\"http://hermess7gv3.onlinecheatjp.com/\" rel=\"nofollow\">エルメス
+    トート</a><a href=\"http://hermesah817.onlinecheat2013.com/\" rel=\"nofollow\">エルメス</a><a
+    href=\"http://mcmpklrd.onlinechewjp.com/\" rel=\"nofollow\">mcm長財布</a><a href=\"http://mcm7u03n.onlinechewjp.com/\"
+    rel=\"nofollow\">mcmカバン</a>"
+- id: 3621
+  author: Lunettes Adidas
+  author_email: lhpqezxu@gmail.com
+  author_url: http://www.lunettes2013.info
+  date: '2013-09-08 07:24:08 +0800'
+  date_gmt: '2013-09-07 23:24:08 +0800'
+  content: "yes,I like it.\r\n[url=http://www.lunettes2013.info]Lunettes Adidas[/url]"
+- id: 3779
+  author: トミーヒルフィガー 財布
+  author_email: agxwjzljuf@gmail.com
+  author_url: http://www.bagsinjury.com/
+  date: '2013-09-21 23:43:52 +0800'
+  date_gmt: '2013-09-21 15:43:52 +0800'
+  content: トミーフィルフィガー
+- id: 5428
+  author: Amik
+  author_email: j1p58kqlf0b@mail.com
+  author_url: http://2gUXaDWRPW
+  date: '2014-07-31 03:59:44 +0800'
+  date_gmt: '2014-07-30 19:59:44 +0800'
+  content: Wow! That's a really neat anwrse!
+- id: 5494
+  author: Emilin
+  author_email: doey2512fx@gmail.com
+  author_url: http://XRdxwBtc
+  date: '2014-08-01 12:38:35 +0800'
+  date_gmt: '2014-08-01 04:38:35 +0800'
+  content: Wham bam thank you, ma'am, my qutsnioes are answered!
+---
+<div id="msgcns!66CD003054696B87!944" class="bvMsg">
+<div>被点名（Anita <a href="http://safevirus.spaces.live.com/">http://safevirus.spaces.live.com</a>）<br />答题游戏，被点名的人，要回答一遍点名者的所有问题，全部作答后，再续加一道新的题目。<br />下述题目，请您认真重做，不要怕暴露隐私。答写后发表在您的博客上，标题注明是谁点到了你，之后再传给另外八个朋友（凑够八仙才快乐），谢谢。<br />1. 喜欢一个人到什么程度算是爱？<br />答:害怕失去对方，害怕对方失去什么东西<br />2．今年的情人节你是怎么样过的？<br />答:好像在日本<br />3．你相信网络里有真实的感情吗？<br />答：相信。<br />4．倘若时光可以倒流，你希望你现在可以回到几岁？<br />答：不用回去，以后更精彩<br />5．如果以生命做代价，你最想得到什么？<br />答：更多生命<br />6．请用一句话说明你是怎样的一个人？<br />答：懒人<br />7．你喜欢哪个与爱情无关的故事？<br />答： 。。。。。。<br />8．相信有抬头纹的人会比较善良吗？<br />答：。。。。。。<br />9．你觉得梦是什么？<br />答：生理现象<br />10．觉得爱情的保质期有多长？<br />答：决定与氧气的多少<br />11．快乐是什么？<br />答：荷尔蒙刺激神经原<br />12．你觉得周笔畅怎么样？<br />答：who?<br />13．拿破仑和希特勒和成吉思汗比较，更欣赏谁？<br />答：不是很了解，不作主管评价。（最近比较佩服 切·格瓦拉）<br />14．近期要实现的目标是什么？<br />答：买个19'的LCD<br />15．要是你的旧情人因为你发疯，你咋办呢？<br />答：让她更疯<br />16．会不会同时爱上两个甚至更多的人呢？<br />答：会<br />17．一个人，对你温柔体贴关爱倍加，另外一个，让你爱的近乎发狂，却始终对你不冷不淡，甚至有点不解风情，你会选择谁？<br />答：高处不胜寒，低处海纳百川<br />18．你相信有外星人吗？<br />答：外星人这个词比较可爱，我是内星人吗？<br />19．你认为人最重要的品性是什么？<br />答：正确的判断力<br />20．你心目中认为最好的城市在哪里?有什么优点?<br />答：最好是想去哪儿就去哪儿，纽约，big apple<br />21．到目前为止,自己拥有的最珍贵的东西是什么?<br />答：回忆<br />22．当你工作中遇到不想做的时候怎么办？<br />答：不做<br />23．看过日本侵华相关的文字图片和记录片吗？你对日本人犯下的罪行怎么看？<br />答：看过，你应该看到更多的东西，在我看来这是人性中阴暗面的一种体现，而不是某个国家的全部人应该对发问者如何如何的问题<br />24．朋友点名让你做游戏，你做不做？<br />答：正确的思考作出正确的选择<br />25．你怎样看待你的初恋？<br />答：挺好的<br />26．你觉得最幸福的场景是怎样的？<br />答：因时而异，因人而异。欲望被满足<br />27．你觉得人死之后是什么样的？<br />答：和我生前差不多吧<br />28．到目前为止，哪个人是最令你难忘的？<br />答：最喜欢的人<br />29．你最希望自己成为怎样的人？<br />答：让其他人幸福的人  <br />30．抛开一切世俗的约束，这辈子你想和谁在一起？<br />答：喜欢的人<br />----------------<br />31．回答完这些问题，你的收获是什么？</div>
+<div>
+<p align="left"><span lang="EN-US" style="font-size:9pt;color:#000066;font-family:宋体;">++++++++++++++++++++++++++++++++++++++++++++ </span></p>
+<p><b><span style="font-size:16pt;color:#000066;font-family:宋体;">点名：</span></b></p>
+<p><b><span style="font-size:16pt;color:#000066;font-family:宋体;">所有看见的人。</span></b></p>
+<p><strong><font face="宋体" color="#000066"></font></strong>你！没错，就是你，别想跑。看贴要回帖，否则男的木有小jj女的木有大mm<img src="http://cfly.spaces.live.com/mmm2006-08-07_14.03/rte/emoticons/smile_tongue.gif" /></p>
+</div>
+</div>

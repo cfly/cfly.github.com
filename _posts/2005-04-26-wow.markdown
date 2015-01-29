@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: wow...
+author_url: http://caofei.org
+wordpress_id: 82
+wordpress_url: http://caofei.wordpress.com/2005/04/26/wow
+date: '2005-04-26 00:57:30 +0800'
+date_gmt: '2005-04-25 16:57:30 +0800'
+categories:
+- 游戏
+tags: []
+comments: []
+---
+<div id="msgcns!66CD003054696B87!306" class="bvMsg">
+<p>浮~这个词不错，反映了N多人的特点，也包括我。这个词不适合用在Blizzard身上，从今天起感受Blizzard的新作（N就以前就...算了，习惯Blizzard了）。希望能感受到不一样的游戏，不一样的人生。</p>
+</div>
+<table cellspacing="0" border="0">
+<tr>
+<td></td>
+</tr>
+<tr>
+<td valign="top"><a href="http://byfiles.storage.live.com/y1ps9nVIEyn5BBy9cdzt_OUvxpxopkLYSlHCje7opsu8L5hjGZEfWSgWX6SqwuLyZ4CHHOkKadc1Yc" target="_blank" rel="WLPP;url=http://byfiles.storage.live.com/y1ps9nVIEyn5BBy9cdzt_OUvxpxopkLYSlHCje7opsu8L5hjGZEfWSgWX6SqwuLyZ4CHHOkKadc1Yc;cnsid=cns&#033;66CD003054696B87&#033;307"><img src="http://byfiles.storage.live.com/y1ps9nVIEyn5BBy9cdzt_OUvxpxopkLYSlHyJ92UM9z4_ICycorvmSGERjQXVOujm8kdgMXRqU-F_I" border="0" /></a></td>
+</tr>
+</table>
