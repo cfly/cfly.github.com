@@ -2,7 +2,7 @@
 layout: post
 title:  "use cocoapods"
 date:   2015-02-23 02:09:46
-categories:
+categories:iOS
 ---
 前一阵想做个IOS app，看了一些相关教程，觉得应该有好多开源库可以直接用。
 大概查了一下，有个[cocoapods]做依赖库管理的东西。
