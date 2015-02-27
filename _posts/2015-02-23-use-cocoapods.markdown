@@ -11,7 +11,7 @@ tags: [ios]
 
 建立一个Xcode工程，然后pod setup 会报错，如下
 
-```
+``` bash
 cflys-mba:sample cfly$ pod setup
 Setting up CocoaPods master repo
 [!] There was an error reading '/Users/cfly/.cocoapods/repos/master/CocoaPods-version.yml'.
@@ -19,7 +19,7 @@ Please consult http://blog.cocoapods.org/Repairing-Our-Broken-Specs-Repository/ 
 ```
 按照链接看过去。照着解决办法
 
-```
+``` bash
 cflys-mba:sample cfly$ rm -fr ~/.cocoapods/repos/master
 cflys-mba:sample cfly$ pod setup
 Setting up CocoaPods master repo
@@ -38,7 +38,7 @@ psych (2.0.8)
 ```
 只留下2.0.8试试
 
-```
+``` bash
 cflys-mba:podsample cfly$ pod setup
 Setting up CocoaPods master repo
 Updating a5da3b1..58580b2
@@ -76,7 +76,7 @@ pod "AFNetworking", "~> 2.0"
 ```
 走起`pod install`
 
-```
+``` bash
 cflys-mba:podsample cfly$ pod install
 Analyzing dependencies
 
